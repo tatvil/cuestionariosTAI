@@ -1,4 +1,4 @@
-# Ignorar archivos y carpetas de Visual Studio
+# Archivos y carpetas de Visual Studio
 .vs/
 *.suo
 *.user
@@ -6,6 +6,13 @@
 *.slnx
 *.vsidx
 
-# Ignorar binarios y compilados
+# Binarios y compilados
 bin/
 obj/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración local
+appsettings.Development.json
