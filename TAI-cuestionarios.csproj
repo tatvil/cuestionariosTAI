@@ -7,4 +7,11 @@
     <RootNamespace>TAI_cuestionarios</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="data\**" />
+    <Content Remove="data\**" />
+    <EmbeddedResource Remove="data\**" />
+    <None Remove="data\**" />
+  </ItemGroup>
+
 </Project>

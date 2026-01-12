@@ -66,18 +66,21 @@ function validarRespuesta(p) {
     const marcada = document.querySelector(`input[name="respuesta"]:checked`);
     
     if (!marcada) {
+        estado.sincontestar = (estado.sincontestar || 0) + 1;
         feedback.textContent = "⚠️ Por favor, selecciona una opción.";
         feedback.style.color = "orange";
-        return;
+    } else {
+        if (marcada.value === p.correcta) {
+            estado.aciertos++;
+            feedback.textContent = "✔ ¡Correcto!";
+            feedback.style.color = "green";
+        } else {
+            estado.fallos++;
+            feedback.textContent = `✘ Incorrecto. La respuesta correcta era ${p.correcta.toUpperCase()}`;
+            feedback.style.color = "red";
+        }
     }
 
-    if (marcada.value === p.correcta) {
-        estado.aciertos++;
-        alert("✔ ¡Correcto!"); // Opcional, puedes usar el div feedback
-    } else {
-        estado.fallos++;
-        alert(`✘ Incorrecto. La respuesta era la ${p.correcta.toUpperCase()}`);
-    }
 
     estado.indiceActual++;
     mostrarSiguientePregunta();
@@ -104,6 +107,7 @@ function actualizarMarcador() {
         <div class="marcador-container">
             <div class="stat">Aciertos: <span class="verde">${estado.aciertos}</span></div>
             <div class="stat">Fallos: <span class="rojo">${estado.fallos}</span></div>
+            <div class="stat">Sin contestar: <span class="verde">${estado.sincontestar}</span></div>
             <div class="stat">Progreso: <span>${contestadas} / ${preguntasCargadas.length}</span></div>
             <div class="nota-actual">Nota actual: <strong>${notaSobreDiez.toFixed(2)}</strong></div>
         </div>
