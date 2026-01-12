@@ -1,0 +1,1483 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Señale la respuesta INCORRECTA de acuerdo con el Título II, artículo 62 de la Constitución Española de 1978. Corresponde al Rey:",
+    "opciones": {
+      "a": "Convocar a referéndum en los casos previstos en la Constitución, previa autorización de las Cortes Generales.",
+      "b": "Convocar y disolver las Cortes Generales y convocar elecciones en los términos previstos en la Constitución.",
+      "c": "Proponer el candidato a Presidente de Gobierno y, en su caso, nombrario, así como poner fin a sus funciones en los términos previstos en la Constitución.",
+      "d": "Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 2,
+    "pregunta": "Según el Título I, Capítulo Cuarto, 'De las garantías de las libertades y derechos fundamentales' de la Constitución Española de 1978, señale la opción correcta:",
+    "opciones": {
+      "a": "Los derechos y libertades reconocidos no vinculan a todas las Administraciones Públicas.",
+      "b": "Sólo por ley orgánica podrá regularse el ejercicio de tales derechos y libertades.",
+      "c": "Una ley orgánica regulará la institución del Defensor del Pueblo.",
+      "d": "El reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo tercero, informará la judicialización positiva, la práctica legislativa y la actuación de los poderes públicos."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Cuál de los siguientes derechos recogidos en el Capítulo Segundo del Título I de la Constitución Española NO forma parte de los Derechos Fundamentales y Libertades Públicas (Artículos 15 a 29)?",
+    "opciones": {
+      "a": "Derecho a sindicarse libremente.",
+      "b": "Derecho a la propiedad privada.",
+      "c": "Derecho a la producción y creación literaria, artística, científica y técnica.",
+      "d": "Derecho a elegir libremente su residencia."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 4,
+    "pregunta": "Según lo establecido en el artículo 159 de la Constitución Española de 1978, los miembros del Tribunal Constitucional serán designados por períodos de:",
+    "opciones": {
+      "a": "9 años y se renovarán por terceras partes cada 3.",
+      "b": "9 años y se renovarán por terceras partes cada 2.",
+      "c": "6 años y se renovarán por terceras partes cada 3.",
+      "d": "6 años y se renovarán por terceras partes cada 2."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 5,
+    "pregunta": "Según el Título III 'De las Cortes Generales' de la Constitución Española de 1978, las Cámaras podrán:",
+    "opciones": {
+      "a": "Recibir peticiones individuales y colectivas, siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas.",
+      "b": "Delegar en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley relativas a los Presupuestos Generales del Estado.",
+      "c": "Reunirse en sesión extraordinaria a petición de la mayoría simple de los miembros de cualquiera de las Cámaras.",
+      "d": "Nombrar conjuntamente Comisiones de Investigación sobre asuntos de interés público. Sus conclusiones serán vinculantes para los Tribunales."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 6,
+    "pregunta": "Según el artículo 71 de la Constitución Española de 1978, ¿quién es el competente en las causas contra Diputados y Senadores?",
+    "opciones": {
+      "a": "Sala de lo Penal del Tribunal Constitucional.",
+      "b": "Sala de lo Contencioso Administrativo del Tribunal Supremo.",
+      "c": "Sala de lo Penal del Tribunal Supremo.",
+      "d": "Sala de lo Civil del Tribunal Supremo."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Quién puede ser elegido Defensor del Pueblo, según la Ley Orgánica 3/1981, de 6 de abril?",
+    "opciones": {
+      "a": "Cualquier Magistrado elegido por las Cortes Generales.",
+      "b": "Cualquier Senador elegido por las Cortes Generales.",
+      "c": "Cualquier persona que se encuentre en el pleno disfrute de sus derechos civiles.",
+      "d": "Cualquier español mayor de edad que se encuentre en el pleno disfrute de sus derechos civiles y políticos."
+    },
+    "correcta": "d",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 8,
+    "pregunta": "Tal y como se recoge en la Resolución de 14 de diciembre de 2015, por la que se establecen las prescripciones técnicas para Cl@ve, señale la respuesta correcta:",
+    "opciones": {
+      "a": "Es un sistema que está dirigido a los ciudadanos que cumplan con los requisitos indicados.",
+      "b": "Ofrece tres niveles de garantía de registro asociados a la forma de comunicación.",
+      "c": "Proporcionará a los usuarios tres modalidades de identificación electrónica basadas en el uso de claves concertadas.",
+      "d": "Permitirá también el acceso a servicios de firma electrónica mediante certificados electrónicos centralizados."
+    },
+    "correcta": "d",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 9,
+    "pregunta": "Señale la respuesta INCORRECTA sobre el uso obligatorio de firma recogida en el artículo 11 de la Ley 39/2015:",
+    "opciones": {
+      "a": "Conocer el estado de la tramitación.",
+      "b": "Desistir de acciones.",
+      "c": "Presentar declaraciones responsables o comunicaciones.",
+      "d": "Formular solicitudes."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 10,
+    "pregunta": "La Constitución Española de 1978 en su artículo 113 establece que:",
+    "opciones": {
+      "a": "El Congreso de los Diputados puede exigir la responsabilidad jurídica mediante mayoría absoluta.",
+      "b": "El Congreso de los Diputados puede exigir la responsabilidad política mediante mayoría simple.",
+      "c": "El Congreso de los Diputados puede exigir la responsabilidad civil mediante mayoría absoluta.",
+      "d": "El Congreso de los Diputados puede exigir la responsabilidad política mediante mayoría absoluta."
+    },
+    "correcta": "d",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 11,
+    "pregunta": "De acuerdo con el Real Decreto Legislativo 5/2015 (TREBEP), el personal laboral se clasifica en:",
+    "opciones": {
+      "a": "Fijo, por tiempo indefinido o temporal.",
+      "b": "De carrera, interino o temporal.",
+      "c": "Fijo, interino o eventual.",
+      "d": "De carrera, fijo o eventual."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 12,
+    "pregunta": "Indique cuál de las siguientes NO es una competencia de la Secretaría de Estado de Función Pública según el RD 210/2024:",
+    "opciones": {
+      "a": "El régimen jurídico y retributivo de la función pública.",
+      "b": "La gestión de la MUFACE.",
+      "c": "La propuesta y ejecución de la política de transformación digital de la Administración.",
+      "d": "La política de recursos humanos."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 13,
+    "pregunta": "Según la Ley 40/2015, las Administraciones Públicas se relacionarán entre sí y con sus órganos a través de medios electrónicos que aseguren:",
+    "opciones": {
+      "a": "La interoperabilidad y seguridad de los sistemas.",
+      "b": "La interoperabilidad y seguridad de los sistemas y datos.",
+      "c": "La interoperabilidad de los sistemas y datos.",
+      "d": "La seguridad de los sistemas y datos."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 14,
+    "pregunta": "El conjunto de criterios y recomendaciones que deben ser tenidos en cuenta por las AA.PP. para la toma de decisiones tecnológica se conoce como:",
+    "opciones": {
+      "a": "Esquema Nacional de Seguridad (ENS).",
+      "b": "Esquema Nacional de Interoperabilidad (ENI).",
+      "c": "Estrategia de Salud Digital.",
+      "d": "Agenda España Digital 2026."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 15,
+    "pregunta": "El Reglamento (UE) 2016/679 (RGPD) define 'datos personales' como:",
+    "opciones": {
+      "a": "Toda información sobre una persona jurídica identificada o identificable.",
+      "b": "Toda información sobre una persona física identificada.",
+      "c": "Toda información sobre una persona física identificada o identificable.",
+      "d": "Toda información sobre una persona física identificable."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 16,
+    "pregunta": "Según la Ley Orgánica 3/2018 (LOPDGDD), el Delegado de Protección de Datos (DPD):",
+    "opciones": {
+      "a": "Debe ser necesariamente un empleado público.",
+      "b": "Podrá ejercer sus funciones a tiempo completo o parcial.",
+      "c": "Será nombrado por un periodo máximo de 2 años renovables.",
+      "d": "Debe ser obligatoriamente un abogado colegiado."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 17,
+    "pregunta": "En el marco de la igualdad efectiva de mujeres y hombres, el artículo 14 de la Ley Orgánica 3/2007 establece como principio general:",
+    "opciones": {
+      "a": "La integración del principio de igualdad en la interpretación y aplicación de las normas.",
+      "b": "La paridad en los órganos de dirección de las empresas privadas.",
+      "c": "La prohibición de la publicidad sexista.",
+      "d": "La integración del principio de igualdad en la adopción de políticas públicas."
+    },
+    "correcta": "d",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 18,
+    "pregunta": "Indique cuál de las siguientes opciones describe correctamente la arquitectura de un ordenador según el modelo de Von Neumann:",
+    "opciones": {
+      "a": "Unidad Central de Proceso, Memoria RAM y Periféricos.",
+      "b": "Unidad de Control, Unidad Aritmético-Lógica y Almacenamiento Secundario.",
+      "c": "Unidad Central de Proceso, Memoria Principal y Sistema de Entrada/Salida.",
+      "d": "Procesador, Buses y Memoria Caché."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 19,
+    "pregunta": "En un sistema informático, ¿qué unidad se encarga de realizar las operaciones de suma, resta y comparaciones lógicas?",
+    "opciones": {
+      "a": "Unidad de Control (UC).",
+      "b": "Unidad de Memoria (UM).",
+      "c": "Unidad Aritmético-Lógica (ALU).",
+      "d": "Unidad de Entrada/Salida (UE/S)."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 20,
+    "pregunta": "Sobre el modelo de referencia OSI, señale la respuesta INCORRECTA:",
+    "opciones": {
+      "a": "La capa de enlace de datos se ocupa del direccionamiento físico y acceso a la red.",
+      "b": "La capa de sesión es la encargada de efectuar el transporte de los datos de origen a destino.",
+      "c": "La capa de presentación se encarga de la representación de la información.",
+      "d": "La capa de aplicación ofrece la posibilidad de acceder a los servicios de las demás capas."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 21,
+    "pregunta": "En el contexto de la administración de memoria, ¿qué es la fragmentación externa?",
+    "opciones": {
+      "a": "Existe suficiente espacio total de memoria para satisfacer una solicitud, pero no es contiguo.",
+      "b": "La memoria asignada es ligeramente mayor que la solicitada.",
+      "c": "Es el proceso de mover procesos de la memoria principal al disco.",
+      "d": "Es un fallo en la tabla de páginas del sistema operativo."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 22,
+    "pregunta": "Un sistema operativo que permite que varios hilos de ejecución existan dentro del contexto de un solo proceso es:",
+    "opciones": {
+      "a": "Monotarea.",
+      "b": "Multiprocesamiento simétrico.",
+      "c": "Multinúcleo.",
+      "d": "Multihilo (Multithreading)."
+    },
+    "correcta": "d",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué nombre recibe el software básico que permite al usuario interactuar con el hardware de un ordenador?",
+    "opciones": {
+      "a": "Middleware.",
+      "b": "Firmware.",
+      "c": "Controlador de dispositivo (Driver).",
+      "d": "Sistema Operativo."
+    },
+    "correcta": "d",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Cuál de las siguientes es una característica de la memoria caché?",
+    "opciones": {
+      "a": "Es más lenta que la memoria principal.",
+      "b": "Su capacidad es mayor que la de la memoria RAM.",
+      "c": "Es una memoria volátil de alta velocidad situada cerca del procesador.",
+      "d": "Se utiliza para el almacenamiento permanente de datos."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 25,
+    "pregunta": "En el sistema de archivos Linux, ¿qué directorio contiene los archivos de configuración del sistema?",
+    "opciones": {
+      "a": "/bin",
+      "b": "/etc",
+      "c": "/var",
+      "d": "/usr"
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Cuál es la función principal de un Sistema de Gestión de Bases de Datos (SGBD)?",
+    "opciones": {
+      "a": "Diseñar la interfaz de usuario de las aplicaciones.",
+      "b": "Permitir el almacenamiento, modificación y extracción de información de una base de datos.",
+      "c": "Compilar el código fuente de los programas.",
+      "d": "Gestionar las conexiones de red del servidor."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 27,
+    "pregunta": "En una base de datos relacional, ¿qué es una clave foránea (Foreign Key)?",
+    "opciones": {
+      "a": "Una clave que identifica unívocamente a cada registro de la tabla.",
+      "b": "Un campo que apunta a la clave primaria de otra tabla.",
+      "c": "Una clave utilizada para cifrar los datos de la tabla.",
+      "d": "Un índice que acelera las consultas de búsqueda."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Qué lenguaje se utiliza de forma estándar para realizar consultas en bases de datos relacionales?",
+    "opciones": {
+      "a": "HTML",
+      "b": "XML",
+      "c": "SQL",
+      "d": "JSON"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 29,
+    "pregunta": "En SQL, la sentencia utilizada para eliminar todos los registros de una tabla sin borrar la estructura de la misma es:",
+    "opciones": {
+      "a": "DELETE",
+      "b": "DROP",
+      "c": "TRUNCATE",
+      "d": "REMOVE"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 30,
+    "pregunta": "Un sistema de almacenamiento que combina varios discos duros para formar una única unidad lógica y ofrecer redundancia o mejora de rendimiento es:",
+    "opciones": {
+      "a": "NAS",
+      "b": "SAN",
+      "c": "RAID",
+      "d": "DAS"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Qué nivel de RAID ofrece 'mirroring' o duplicación de datos en dos discos?",
+    "opciones": {
+      "a": "RAID 0",
+      "b": "RAID 1",
+      "c": "RAID 5",
+      "d": "RAID 10"
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 32,
+    "pregunta": "En redes de ordenadores, ¿qué dispositivo se encarga de interconectar diferentes redes y determinar la mejor ruta para los paquetes?",
+    "opciones": {
+      "a": "Switch",
+      "b": "Hub",
+      "c": "Router",
+      "d": "Bridge"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Qué protocolo se utiliza para asignar direcciones IP de forma dinámica a los equipos de una red?",
+    "opciones": {
+      "a": "DNS",
+      "b": "HTTP",
+      "c": "DHCP",
+      "d": "FTP"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Cuál es la máscara de subred por defecto para una red de Clase C en direccionamiento IPv4?",
+    "opciones": {
+      "a": "255.0.0.0",
+      "b": "255.255.0.0",
+      "c": "255.255.255.0",
+      "d": "255.255.255.255"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 35,
+    "pregunta": "En el modelo TCP/IP, ¿en qué capa operan los protocolos TCP y UDP?",
+    "opciones": {
+      "a": "Aplicación",
+      "b": "Internet",
+      "c": "Transporte",
+      "d": "Acceso a Red"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Cuál es la longitud de una dirección IPv6?",
+    "opciones": {
+      "a": "32 bits",
+      "b": "48 bits",
+      "c": "64 bits",
+      "d": "128 bits"
+    },
+    "correcta": "d",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Qué puerto utiliza por defecto el protocolo seguro de transferencia de hipertexto (HTTPS)?",
+    "opciones": {
+      "a": "80",
+      "b": "443",
+      "c": "21",
+      "d": "25"
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 38,
+    "pregunta": "Un ataque que consiste en saturar un servidor con una avalancha de tráfico desde múltiples fuentes se denomina:",
+    "opciones": {
+      "a": "Phishing",
+      "b": "Malware",
+      "c": "DDoS",
+      "d": "Spyware"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 39,
+    "pregunta": "En el contexto de la seguridad informática, ¿qué significan las siglas VPN?",
+    "opciones": {
+      "a": "Virtual Personal Network",
+      "b": "Virtual Private Network",
+      "c": "Variable Private Network",
+      "d": "Verified Private Network"
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Cuál es el propósito de un cortafuegos (Firewall) en una red?",
+    "opciones": {
+      "a": "Aumentar la velocidad de la conexión a Internet.",
+      "b": "Eliminar virus de los correos electrónicos.",
+      "c": "Filtrar el tráfico de red entrante y saliente basándose en reglas de seguridad.",
+      "d": "Almacenar copias de seguridad de los datos."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Cuál de los siguientes no es un tipo de lenguaje de programación según su nivel de abstracción?",
+    "opciones": {
+      "a": "Lenguaje de bajo nivel.",
+      "b": "Lenguaje de medio nivel.",
+      "c": "Lenguaje de alto nivel.",
+      "d": "Lenguaje de nivel de usuario."
+    },
+    "correcta": "d",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 42,
+    "pregunta": "En el desarrollo de software, ¿qué es un compilador?",
+    "opciones": {
+      "a": "Un programa que traduce el código fuente a código máquina.",
+      "b": "Un programa que ejecuta el código fuente línea por línea.",
+      "c": "Un editor de texto avanzado para programadores.",
+      "d": "Una herramienta para gestionar versiones del código."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Qué metodología de desarrollo de software se basa en ciclos iterativos y rápidos denominados 'sprints'?",
+    "opciones": {
+      "a": "Modelo en cascada (Waterfall).",
+      "b": "Scrum.",
+      "c": "Modelo en espiral.",
+      "d": "Metodología RUP."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 44,
+    "pregunta": "En programación orientada a objetos, la capacidad de un objeto de tomar varias formas se denomina:",
+    "opciones": {
+      "a": "Encapsulamiento.",
+      "b": "Herencia.",
+      "c": "Polimorfismo.",
+      "d": "Abstracción."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 45,
+    "pregunta": "En el desarrollo de software, ¿qué significa el acrónimo SOLID?",
+    "opciones": {
+      "a": "Es un conjunto de cinco principios de diseño de software orientado a objetos.",
+      "b": "Es una metodología de desarrollo ágil.",
+      "c": "Es un lenguaje de programación de bajo nivel.",
+      "d": "Es un framework para el desarrollo de interfaces de usuario."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Qué es una API (Application Programming Interface)?",
+    "opciones": {
+      "a": "Un tipo de servidor de base de datos.",
+      "b": "Un lenguaje de marcado para crear páginas web.",
+      "c": "Un conjunto de definiciones y protocolos que permiten la comunicación entre dos aplicaciones.",
+      "d": "Una herramienta para realizar pruebas de rendimiento."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 47,
+    "pregunta": "En el control de versiones con Git, ¿qué comando se utiliza para descargar los cambios desde un repositorio remoto y fusionarlos con el local?",
+    "opciones": {
+      "a": "git push",
+      "b": "git commit",
+      "c": "git pull",
+      "d": "git add"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Cuál de los siguientes es un formato de intercambio de datos ligero y fácil de leer para humanos y máquinas?",
+    "opciones": {
+      "a": "HTML",
+      "b": "JSON",
+      "c": "HTTP",
+      "d": "FTP"
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 49,
+    "pregunta": "En una aplicación web, la parte que interactúa directamente con el usuario se denomina:",
+    "opciones": {
+      "a": "Frontend.",
+      "b": "Backend.",
+      "c": "Middleware.",
+      "d": "Database."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Qué lenguaje se utiliza principalmente para dar estilo y diseño a las páginas web?",
+    "opciones": {
+      "a": "HTML",
+      "b": "PHP",
+      "c": "JavaScript",
+      "d": "CSS"
+    },
+    "correcta": "d",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 51,
+    "pregunta": "¿Cuál de las siguientes etiquetas HTML se utiliza para crear un enlace hipertexto?",
+    "opciones": {
+      "a": "<a>",
+      "b": "<li>",
+      "c": "<link>",
+      "d": "<href>"
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 52,
+    "pregunta": "En JavaScript, ¿cuál de los siguientes es un tipo de datos primitivo?",
+    "opciones": {
+      "a": "Array",
+      "b": "Object",
+      "c": "String",
+      "d": "Function"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 53,
+    "pregunta": "Un servidor que actúa como intermediario entre un cliente y otro servidor para filtrar peticiones o mejorar el rendimiento se llama:",
+    "opciones": {
+      "a": "DNS",
+      "b": "Proxy",
+      "c": "DHCP",
+      "d": "Gateway"
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 54,
+    "pregunta": "¿Qué es la virtualización en informática?",
+    "opciones": {
+      "a": "Un proceso para aumentar la memoria física de un servidor.",
+      "b": "La creación de una versión de software de un recurso tecnológico como un sistema operativo o un servidor.",
+      "c": "La simulación de la realidad a través de gafas 3D.",
+      "d": "El cifrado de todos los datos de un disco duro."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 55,
+    "pregunta": "En el contexto de Cloud Computing, ¿qué significa el modelo de servicio SaaS?",
+    "opciones": {
+      "a": "System as a Service.",
+      "b": "Storage as a Service.",
+      "c": "Software as a Service.",
+      "d": "Security as a Service."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 56,
+    "pregunta": "El proceso de verificar la identidad de un usuario se conoce como:",
+    "opciones": {
+      "a": "Autorización.",
+      "b": "Autenticación.",
+      "c": "Auditoría.",
+      "d": "Acceso."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 57,
+    "pregunta": "¿Qué técnica de seguridad consiste en transformar información legible en un código ilegible mediante una clave?",
+    "opciones": {
+      "a": "Cifrado o Encriptación.",
+      "b": "Compresión.",
+      "c": "Hashing.",
+      "d": "Fragmentación."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Cuál de las siguientes es una amenaza de seguridad que se propaga a través de redes infectando a otros ordenadores sin intervención del usuario?",
+    "opciones": {
+      "a": "Troyano.",
+      "b": "Ransomware.",
+      "c": "Gusano (Worm).",
+      "d": "Keylogger."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Qué estándar de la familia IEEE define las redes locales inalámbricas (Wi-Fi)?",
+    "opciones": {
+      "a": "IEEE 802.3",
+      "b": "IEEE 802.15",
+      "c": "IEEE 802.11",
+      "d": "IEEE 802.1"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 60,
+    "pregunta": "En el contexto de la calidad del software, ¿qué son las pruebas unitarias?",
+    "opciones": {
+      "a": "Pruebas que evalúan el sistema completo.",
+      "b": "Pruebas que evalúan el rendimiento bajo carga.",
+      "c": "Pruebas que validan el funcionamiento de un componente individual de código.",
+      "d": "Pruebas realizadas por los usuarios finales."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Cuál de las siguientes es una ventaja del uso de contenedores (como Docker) frente a las máquinas virtuales tradicionales?",
+    "opciones": {
+      "a": "Mayor aislamiento de hardware.",
+      "b": "Menor consumo de recursos y mayor rapidez de despliegue.",
+      "c": "Permiten ejecutar sistemas operativos con núcleos diferentes al del host.",
+      "d": "Son más lentos pero más seguros."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 62,
+    "pregunta": "En el desarrollo web, ¿qué función tiene el archivo robots.txt?",
+    "opciones": {
+      "a": "Contener el código fuente de los scripts automáticos.",
+      "b": "Indicar a los rastreadores de los buscadores qué páginas pueden o no rastrear.",
+      "c": "Almacenar las contraseñas de los administradores.",
+      "d": "Configurar los estilos globales del sitio."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Qué protocolo se utiliza habitualmente para la transferencia segura de archivos a través de una red cifrada con SSH?",
+    "opciones": {
+      "a": "FTP",
+      "b": "TFTP",
+      "c": "SFTP",
+      "d": "HTTP"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 64,
+    "pregunta": "En una base de datos relacional, la operación que combina filas de dos o más tablas basándose en una columna relacionada se llama:",
+    "opciones": {
+      "a": "UNION",
+      "b": "JOIN",
+      "c": "GROUP BY",
+      "d": "SELECT"
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 65,
+    "pregunta": "¿Qué tipo de copia de seguridad solo guarda los datos que han cambiado desde la última copia de seguridad de cualquier tipo?",
+    "opciones": {
+      "a": "Copia de seguridad completa.",
+      "b": "Copia de seguridad diferencial.",
+      "c": "Copia de seguridad incremental.",
+      "d": "Copia de seguridad espejo."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 66,
+    "pregunta": "En el contexto de la administración electrónica española, ¿qué es @firma?",
+    "opciones": {
+      "a": "Una aplicación para firmar correos electrónicos.",
+      "b": "Una plataforma multi-entidad de validación y firma electrónica.",
+      "c": "Un nuevo tipo de certificado digital.",
+      "d": "Una red social para empleados públicos."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 67,
+    "pregunta": "Indique cuál de las siguientes es una herramienta de software libre para la monitorización de redes y sistemas:",
+    "opciones": {
+      "a": "Microsoft SCOM.",
+      "b": "Zabbix.",
+      "c": "SolarWinds.",
+      "d": "Oracle Enterprise Manager."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Qué significa el término 'Open Source'?",
+    "opciones": {
+      "a": "Que el software es gratuito para siempre.",
+      "b": "Que el código fuente está disponible y puede ser modificado y distribuido.",
+      "c": "Que el software solo puede usarse en sistemas operativos abiertos.",
+      "d": "Que el software no tiene licencia."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 69,
+    "pregunta": "En el modelo entidad-relación, un atributo que puede identificar de forma única a una entidad se llama:",
+    "opciones": {
+      "a": "Atributo derivado.",
+      "b": "Atributo multivaluado.",
+      "c": "Clave primaria o identificador.",
+      "d": "Relación recursiva."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 70,
+    "pregunta": "La arquitectura que separa la lógica de negocio, la interfaz de usuario y el acceso a datos se conoce habitualmente como:",
+    "opciones": {
+      "a": "Arquitectura de un solo nivel.",
+      "b": "Arquitectura en tres capas.",
+      "c": "Arquitectura cliente-servidor básica.",
+      "d": "Arquitectura monolítica."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 71,
+    "pregunta": "¿Cuál de las siguientes categorías de cable Ethernet tiene 10.000 Mbps como tope de velocidad de transferencia?",
+    "opciones": {
+      "a": "Categoría 6A.",
+      "b": "Categoría 8.",
+      "c": "Categoría 6.",
+      "d": "Categoría 5E."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 72,
+    "pregunta": "Señale cuál de las siguientes tecnologías NO es una tecnología LPWAN:",
+    "opciones": {
+      "a": "LoRaWAN.",
+      "b": "Bluetooth LE.",
+      "c": "SigFox.",
+      "d": "NB-IoT."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 73,
+    "pregunta": "¿Cuál de las siguientes respuestas es correcta respecto al modelo OSI de ISO?",
+    "opciones": {
+      "a": "Las capas son: Física, de red, de transporte, de sesión, de presentación y de aplicación.",
+      "b": "La versión actual del estándar OSI es la ISO/IEC 7498-1:1994.",
+      "c": "La capa de transporte se ocupa del enrutamiento y el reenvío.",
+      "d": "La capa de sesión se divide en dos subcapas: MAC y LLC."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 74,
+    "pregunta": "¿Cuál es la respuesta correcta con respecto modelo TCP/IP?",
+    "opciones": {
+      "a": "La arquitectura TCP/IP tiene cinco capas.",
+      "b": "TCP y UDP son protocolos de la capa de Internet.",
+      "c": "Telnet es un protocolo de la capa de sesión.",
+      "d": "ICMP es un protocolo de la capa de Internet."
+    },
+    "correcta": "d",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 75,
+    "pregunta": "Relativa al direccionamiento IPv4, indique la respuesta INCORRECTA:",
+    "opciones": {
+      "a": "La dirección 172.16.52.63 es una dirección de clase B.",
+      "b": "Las direcciones 192.168.123.71 y 192.168.123.133 con máscara 255.255.255.192 están en la misma red.",
+      "c": "Las redes de clase A usan máscara 255.0.0.0.",
+      "d": "En las redes clase C se permite direccionar 254 equipos como máximo."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 76,
+    "pregunta": "¿Qué código de respuesta HTTP se devuelve si el usuario NO tiene autorización para obtener la información?",
+    "opciones": {
+      "a": "401",
+      "b": "403",
+      "c": "405",
+      "d": "407"
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 77,
+    "pregunta": "Indique la respuesta correcta sobre el IETF (Internet Engineering Task Force):",
+    "opciones": {
+      "a": "Es un organismo creador de estándares en Internet.",
+      "b": "Es responsable de la raíz del sistema de nombres de dominio (DNS).",
+      "c": "Es responsable de administrar las direcciones IP globales.",
+      "d": "Es el Foro de Gobernanza de Internet."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 78,
+    "pregunta": "Sobre tipos de transferencia de archivos en el servicio FTP, es CORRECTO decir que:",
+    "opciones": {
+      "a": "El tipo ASCII es adecuado para transferir archivos de texto plano.",
+      "b": "El tipo Multimedia es adecuado para transferir imágenes.",
+      "c": "El tipo Binario solo es adecuado para ejecutables.",
+      "d": "El tipo ASCII es adecuado para páginas HTML e imágenes."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 79,
+    "pregunta": "¿Cuál de los siguientes ataques consiste en suplantar a una entidad legítima por llamadas telefónicas?",
+    "opciones": {
+      "a": "Pharming.",
+      "b": "Smishing.",
+      "c": "Vishing.",
+      "d": "Whaling."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 80,
+    "pregunta": "La herramienta del CCN que proporciona visibilidad y control sobre la red es:",
+    "opciones": {
+      "a": "CARMEN.",
+      "b": "EMMA.",
+      "c": "MONICA.",
+      "d": "OLVIDO."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B"
+  },
+  {
+    "id": 81,
+    "pregunta": "Señale cuál es una resolución válida para una pantalla:",
+    "opciones": {
+      "a": "8K UHD - 7680 x 3840 píxeles.",
+      "b": "Ultra HD - 4320 x 1280 píxeles.",
+      "c": "WQHD - 2560 x 1440 píxeles.",
+      "d": "HD - 1920 x 1080 píxeles."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B",
+    "reserva": true
+  },
+  {
+    "id": 82,
+    "pregunta": "¿Cuál es un tipo de panel de una pantalla LCD?",
+    "opciones": {
+      "a": "IPS (In-Plane Switching).",
+      "b": "VN (Vertical Nematic).",
+      "c": "TA (Twisted Alignment).",
+      "d": "PSI (Plane Switching Input)."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B",
+    "reserva": true
+  },
+  {
+    "id": 83,
+    "pregunta": "El protocolo de IEEE para Rapid Spanning Tree Protocol (RSTP) es:",
+    "opciones": {
+      "a": "802.1w.",
+      "b": "802.1Q.",
+      "c": "802.1D.",
+      "d": "802.1aq."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B",
+    "reserva": true
+  },
+  {
+    "id": 84,
+    "pregunta": "En CSS3, ¿cuál de las siguientes unidades de medida NO es relativa?",
+    "opciones": {
+      "a": "Q",
+      "b": "vw",
+      "c": "ex",
+      "d": "ch"
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B",
+    "reserva": true
+  },
+  {
+    "id": 85,
+    "pregunta": "Señale la respuesta correcta sobre el desarrollo para dispositivos Apple:",
+    "opciones": {
+      "a": "Xcode es un IDE que contiene herramientas destinadas exclusivamente al desarrollo software para iOS.",
+      "b": "Xcode Cloud no existe.",
+      "c": "SwiftUI es un framework que facilita la creación de aplicaciones para cualquier dispositivo Apple.",
+      "d": "iOS SDK permite el desarrollo de aplicaciones para macOS, iOS, watchOS y tvOS."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B",
+    "reserva": true
+  },
+  {
+    "id": 86,
+    "pregunta": "¿Qué elemento HTML utilizaría para impedir que el e-mail exceda los 100 caracteres cuando el interesado lo cumplimente?",
+    "opciones": {
+      "a": "<input type='email' id='email' name='email' size='100'>",
+      "b": "<input type='email' id='email' name='email' max='100'>",
+      "c": "<input type='email' id='email' name='email' maxlength='100'>",
+      "d": "<input type='email' id='email' name='email' length='100'>"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 87,
+    "pregunta": "¿Qué ORM podría utilizar, en función de la solución de backend escogida?",
+    "opciones": {
+      "a": "JPA en .NET e Hibernate en Java.",
+      "b": "Hibernate en .NET y Entity Framework en Java.",
+      "c": "Entity Framework en .NET e Hibernate en Java.",
+      "d": "Spring Data en .NET e Hibernate en Java."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Qué sentencia habría que ejecutar si se quiere añadir un nuevo registro a la tabla 'CuerpoBecado'?",
+    "opciones": {
+      "a": "INSERT INTO CuerpoBecado (Codigo, Denominacion) VALUES ('TAI', 'Técnico Auxiliar de Informática');",
+      "b": "INSERT INTO CuerpoBecado (Codigo, Denominacion) VALUES (TAI, Técnico Auxiliar de Informática);",
+      "c": "INSERT TO CuerpoBecado (Codigo, Denominacion) VALUES ('TAI', 'Técnico Auxiliar de Informática');",
+      "d": "INSERT INTO CuerpoBecado (Codigo, Denominacion) VALUES ('TAI', 'Técnico Auxiliar de Informática');"
+    },
+    "correcta": "d",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 89,
+    "pregunta": "¿Qué tipo de correspondencia hay entre las tablas 'SolicitudBeca' y 'FicheroAdjunto'?",
+    "opciones": {
+      "a": "Un registro de SolicitudBeca puede tener N registros de FicheroAdjunto.",
+      "b": "Un registro de SolicitudBeca puede tener como máximo un registro de FicheroAdjunto.",
+      "c": "N registros de SolicitudBeca pueden tener M registros de FicheroAdjunto.",
+      "d": "Un registro de SolicitudBeca puede tener cero o como máximo un registro de FicheroAdjunto."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 90,
+    "pregunta": "A este sistema le es de aplicación la normativa de accesibilidad. ¿Qué herramienta utilizaría para probar que la aplicación cumple con los estándares?",
+    "opciones": {
+      "a": "QualWeb.",
+      "b": "Equal Automatic Checker.",
+      "c": "AccSite.",
+      "d": "Shovel."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 91,
+    "pregunta": "¿Cuál de las siguientes afirmaciones es correcta en relación con el uso de Git en el desarrollo del sistema?",
+    "opciones": {
+      "a": "Git es un sistema de control de versiones centralizado.",
+      "b": "El comando git clone se utiliza para crear un nuevo repositorio vacío.",
+      "c": "El comando git push envía los cambios del repositorio local al remoto.",
+      "d": "El archivo .gitignore sirve para forzar la subida de archivos binarios."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 92,
+    "pregunta": "Para asegurar la integridad de los datos en la base de datos, se decide aplicar una restricción que impida valores nulos en el campo 'DNI'. ¿Qué cláusula SQL se utiliza?",
+    "opciones": {
+      "a": "NOT NULL",
+      "b": "NO NULL",
+      "c": "EMPTY NOT",
+      "d": "NULL ZERO"
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 93,
+    "pregunta": "Se requiere que el sistema envíe notificaciones automáticas por correo electrónico. ¿Qué protocolo se debe configurar en el servidor de salida?",
+    "opciones": {
+      "a": "POP3",
+      "b": "IMAP",
+      "c": "SMTP",
+      "d": "SNMP"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 94,
+    "pregunta": "Si el backend está desarrollado en Java, ¿cuál de estos servidores de aplicaciones sería el más adecuado para desplegar el WAR?",
+    "opciones": {
+      "a": "IIS (Internet Information Services).",
+      "b": "Apache Tomcat.",
+      "c": "Nginx.",
+      "d": "Kestrel."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 95,
+    "pregunta": "Para mejorar el rendimiento de las búsquedas por el campo 'Apellidos' en la tabla de solicitantes, debería crear un:",
+    "opciones": {
+      "a": "Trigger.",
+      "b": "Procedimiento almacenado.",
+      "c": "Índice (Index).",
+      "d": "Vista (View)."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 96,
+    "pregunta": "¿Qué formato de datos es el más común hoy en día para las respuestas de una API REST que alimentará el frontend?",
+    "opciones": {
+      "a": "XML",
+      "b": "CSV",
+      "c": "JSON",
+      "d": "YAML"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 97,
+    "pregunta": "El sistema debe cumplir con el Esquema Nacional de Seguridad (ENS). ¿Qué categoría de sistema sería si maneja datos de becas y datos bancarios?",
+    "opciones": {
+      "a": "Básica.",
+      "b": "Media.",
+      "c": "Alta.",
+      "d": "Crítica."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 98,
+    "pregunta": "¿Cuál de estos métodos HTTP se utiliza para actualizar un recurso existente de forma completa en el servidor?",
+    "opciones": {
+      "a": "GET",
+      "b": "POST",
+      "c": "PUT",
+      "d": "DELETE"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 99,
+    "pregunta": "En el desarrollo frontend, ¿qué tecnología permite que la página sea 'responsive' y se adapte a dispositivos móviles?",
+    "opciones": {
+      "a": "Media Queries de CSS.",
+      "b": "Scripts de Java.",
+      "c": "Tablas HTML.",
+      "d": "Frames."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 100,
+    "pregunta": "Si se detecta que un usuario intenta inyectar código SQL a través de un formulario, ¿qué medida de prevención es la más eficaz?",
+    "opciones": {
+      "a": "Cifrar la base de datos.",
+      "b": "Usar sentencias preparadas (Prepared Statements) o consultas parametrizadas.",
+      "c": "Aumentar el tamaño de los campos de texto.",
+      "d": "Usar un cortafuegos físico."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 101,
+    "pregunta": "¿Qué etiqueta HTML5 se utiliza para incluir un pie de página en el diseño del portal?",
+    "opciones": {
+      "a": "<bottom>",
+      "b": "<end>",
+      "c": "<footer>",
+      "d": "<section>"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 102,
+    "pregunta": "En el modelo de datos, si borramos una 'SolicitudBeca' y queremos que automáticamente se borren sus 'FicherosAdjuntos', configuraremos la relación como:",
+    "opciones": {
+      "a": "ON DELETE CASCADE",
+      "b": "ON DELETE RESTRICT",
+      "c": "ON DELETE SET NULL",
+      "d": "ON DELETE NO ACTION"
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 103,
+    "pregunta": "¿Qué herramienta de depuración integrada en los navegadores modernos permite inspeccionar el tráfico de red y el DOM?",
+    "opciones": {
+      "a": "Wireshark.",
+      "b": "DevTools.",
+      "c": "Putty.",
+      "d": "Notepad++."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 104,
+    "pregunta": "Para la firma electrónica en el cliente, el componente recomendado por la AGE que facilita este proceso es:",
+    "opciones": {
+      "a": "AutoFirma.",
+      "b": "Adobe Reader.",
+      "c": "Java Runtime Environment.",
+      "d": "Cl@ve Pin."
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 105,
+    "pregunta": "¿Cómo se define una relación de herencia en un diagrama de clases UML?",
+    "opciones": {
+      "a": "Una línea discontinua con una flecha abierta.",
+      "b": "Una línea sólida con un triángulo vacío apuntando a la superclase.",
+      "c": "Una línea sólida con un rombo en un extremo.",
+      "d": "Una línea con asteriscos en los extremos."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto I"
+  },
+  {
+    "id": 106,
+    "pregunta": "¿Qué comando de Linux utilizaría para buscar el archivo 'nagios.cfg' en todo el sistema comenzando desde la raíz?",
+    "opciones": {
+      "a": "locate nagios.cfg",
+      "b": "find / -name nagios.cfg",
+      "c": "search nagios.cfg",
+      "d": "grep -r nagios.cfg /"
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  },
+  {
+    "id": 107,
+    "pregunta": "Para permitir el tráfico del servicio HTTPS en el cortafuegos del servidor (iptables o firewalld), ¿qué puerto debe abrir?",
+    "opciones": {
+      "a": "80",
+      "b": "8080",
+      "c": "443",
+      "d": "22"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  },
+  {
+    "id": 108,
+    "pregunta": "En MySQL, ¿cuál es el comando para ver la estructura de la tabla 'ProfesoresIngles'?",
+    "opciones": {
+      "a": "SHOW ProfesoresIngles;",
+      "b": "DESCRIBE ProfesoresIngles;",
+      "c": "STRUCTURE ProfesoresIngles;",
+      "d": "VIEW ProfesoresIngles;"
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  },
+  {
+    "id": 109,
+    "pregunta": "Si desea realizar una copia de seguridad de la base de datos MySQL desde la línea de comandos, ¿qué herramienta utilizaría?",
+    "opciones": {
+      "a": "mysqlbackup",
+      "b": "mysqldump",
+      "c": "mysqlcopy",
+      "d": "mysqlsave"
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  },
+  {
+    "id": 110,
+    "pregunta": "¿Qué protocolo utiliza Nagios por defecto para monitorizar de forma remota indicadores de carga y disco en servidores Linux?",
+    "opciones": {
+      "a": "NRPE",
+      "b": "SNMP",
+      "c": "SSH",
+      "d": "NSClient++"
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  },
+  {
+    "id": 111,
+    "pregunta": "En el contexto de TLS, ¿qué es el 'Handshake'?",
+    "opciones": {
+      "a": "El proceso de cierre de la conexión.",
+      "b": "La fase de negociación inicial para establecer los parámetros de seguridad.",
+      "c": "El envío de los datos cifrados.",
+      "d": "La validación periódica del certificado."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  },
+  {
+    "id": 112,
+    "pregunta": "Si un servidor web devuelve un error 503, ¿qué significa?",
+    "opciones": {
+      "a": "Página no encontrada.",
+      "b": "Acceso prohibido.",
+      "c": "Servicio no disponible (Service Unavailable).",
+      "d": "Error interno del servidor."
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  },
+  {
+    "id": 113,
+    "pregunta": "¿Qué comando usaría para cambiar los permisos de un archivo en Linux para que el dueño tenga todos los permisos y el resto ninguno?",
+    "opciones": {
+      "a": "chmod 777 archivo",
+      "b": "chmod 700 archivo",
+      "c": "chown 700 archivo",
+      "d": "chmod 600 archivo"
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  },
+  {
+    "id": 114,
+    "pregunta": "Para monitorizar el estado de la CPU en tiempo real en un terminal Linux, ¿qué comando es el más común?",
+    "opciones": {
+      "a": "cpuinfo",
+      "b": "top",
+      "c": "ps -aux",
+      "d": "meminfo"
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  },
+  {
+    "id": 115,
+    "pregunta": "Según el esquema de Nagios, ¿cómo se denominan los elementos que definen qué se debe monitorizar (ping, http, etc.)?",
+    "opciones": {
+      "a": "Hosts.",
+      "b": "Services.",
+      "c": "Commands.",
+      "d": "Contacts."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  },
+  {
+    "id": 116,
+    "pregunta": "En una arquitectura de alta disponibilidad, ¿qué componente reparte la carga de trabajo entre varios servidores web?",
+    "opciones": {
+      "a": "Proxy inverso.",
+      "b": "Balanceador de carga (Load Balancer).",
+      "c": "Switch de capa 2.",
+      "d": "Servidor de nombres."
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  },
+  {
+    "id": 117,
+    "pregunta": "Usted necesita crear la tabla 'ProfesoresIngles' con una clave primaria autoincremental. ¿Cuál es la sintaxis correcta en MySQL?",
+    "opciones": {
+      "a": "CREATE TABLE ProfesoresIngles (id INT NOT NULL PRIMARY KEY AUTO_INCREMENT, nombre VARCHAR(30), apellido1 VARCHAR(30), apellido2 VARCHAR(30));",
+      "b": "CREATE TABLE ProfesoresIngles KEY id, nombre, apellidos;",
+      "c": "CREAR TABLA ProfesoresIngles KEY apellidos, nombre;",
+      "d": "CREATE TABLE ProfesoresIngles (nombre, apellido);"
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  },
+  {
+    "id": 118,
+    "pregunta": "Quiere comprobar que Nagios está configurado correctamente antes de reiniciar el servicio. ¿Qué comando debe usar?",
+    "opciones": {
+      "a": "nagios -v /usr/local/nagios/etc/nagios.cfg",
+      "b": "/mnt/nagios -check",
+      "c": "systemctl status nagios",
+      "d": "https://profesores.es nagios"
+    },
+    "correcta": "a",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  },
+  {
+    "id": 119,
+    "pregunta": "Según el CCN, ¿cuál es la versión mínima aceptable y la recomendada de TLS para un servidor?",
+    "opciones": {
+      "a": "Mínima 1.1, recomendada 1.1",
+      "b": "Mínima 1.0, recomendada 1.1",
+      "c": "Mínima 1.2, recomendada 1.3",
+      "d": "Mínima 1.3, recomendada 1.3"
+    },
+    "correcta": "c",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  },
+  {
+    "id": 120,
+    "pregunta": "¿Qué archivo de configuración de Apache se suele editar para habilitar el módulo SSL y definir los certificados?",
+    "opciones": {
+      "a": "php.ini",
+      "b": "ssl.conf o httpd-ssl.conf",
+      "c": "my.cnf",
+      "d": "web.config"
+    },
+    "correcta": "b",
+    "examen": "TAI 2024B",
+    "bloque": "Supuesto II"
+  }
+
+]

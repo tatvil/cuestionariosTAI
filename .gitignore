@@ -1,0 +1,11 @@
+# Ignorar archivos y carpetas de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.slnx
+*.vsidx
+
+# Ignorar binarios y compilados
+bin/
+obj/

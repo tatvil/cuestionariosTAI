@@ -1,0 +1,158 @@
+/* --- VARIABLES DE COLOR (Estilo VS Code Dark) --- */
+:root {
+    --bg-color: #1e1e1e;
+    --text-color: #d4d4d4;
+    --accent-color: #007acc; 
+    --titulos-color: #4ec9b0; 
+    --border-color: #3b3b3b;
+    --card-bg: #252526;
+    --hover-bg: #2a2d2e;
+    --success: #6a9955;
+    --error: #f44747;
+    --warning: #d7ba7d;
+}
+
+/* --- ESTILOS GENERALES --- */
+body {
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    margin: 2rem auto;
+    max-width: 850px;
+    padding: 0 20px;
+}
+
+h1 {
+    color: var(--titulos-color);
+    text-align: center;
+    border-bottom: 2px solid var(--accent-color);
+    padding-bottom: 10px;
+}
+
+/* --- SELECTOR Y BOTONES --- */
+select, button {
+    background-color: var(--card-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 10px 15px;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+select:focus, button:hover {
+    border-color: var(--accent-color);
+    background-color: var(--hover-bg);
+}
+
+button#aleatoria {
+    background-color: var(--accent-color);
+    color: white;
+    font-weight: bold;
+}
+
+/* --- TARJETA DE PREGUNTA --- */
+.pregunta {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+    padding: 2rem;
+    margin-top: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+.pregunta p strong {
+    color: var(--titulos-color);
+    font-size: 1.2rem;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+/* --- OPCIONES (Efecto lista de terminal) --- */
+.opcion {
+    display: block;
+    padding: 12px 15px;
+    margin: 8px 0;
+    background: var(--bg-color);
+    border: 1px solid transparent;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.opcion:hover {
+    border-color: var(--accent-color);
+    background: var(--hover-bg);
+}
+
+.opcion input[type="radio"] {
+    margin-right: 12px;
+    accent-color: var(--accent-color);
+}
+
+/* --- FEEDBACK Y RESULTADOS --- */
+#resultado {
+    margin: 20px 0;
+    padding: 15px;
+    border-radius: 5px;
+    border: 2px solid var(--border-color);
+    background: var(--bg-color);
+    margin-bottom: 10px;
+}
+
+#feedback {
+    margin-top: 1.5rem;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
+    font-family: 'Consolas', monospace;
+}
+
+/* --- ANIMACIÓN DE CARGA --- */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.pregunta {
+    animation: fadeIn 0.3s ease-out;
+}
+
+
+.marcador-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-left: 4px solid var(--accent-color);
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    font-family: 'Consolas', monospace; /* Fuente de código */
+}
+
+.stat {
+    font-size: 0.9rem;
+    margin-right: 15px;
+}
+
+.verde { color: var(--success); font-weight: bold; }
+.rojo { color: var(--error); font-weight: bold; }
+
+.nota-actual {
+    font-size: 1.2rem;
+    color: var(--titulos-color);
+}
+
+.nota-actual strong {
+    font-size: 1.5rem;
+    border: 1px solid var(--titulos-color);
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-left: 5px;
+}

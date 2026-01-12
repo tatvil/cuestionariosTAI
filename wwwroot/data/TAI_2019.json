@@ -1,0 +1,1027 @@
+[
+  {
+    "id": 1,
+    "pregunta": "En relación a los derechos y deberes de los ciudadanos, el artículo 30 de la Constitución Española indica que:",
+    "opciones": {
+      "a": "Mediante ley podrán ser de obligado cumplimiento los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.",
+      "b": "Mediante Real Decreto podrán ser de obligado cumplimiento los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.",
+      "c": "Mediante ley podrán eliminarse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.",
+      "d": "Mediante ley podrán regularse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública."
+    },
+    "correcta": "d",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 2,
+    "pregunta": "Según el artículo 62 de la Constitución Española, ¿a quién corresponde expedir los decretos acordados en el Consejo de Ministros?",
+    "opciones": {
+      "a": "Al Rey.",
+      "b": "Al Presidente del Gobierno.",
+      "c": "Al titular del Ministerio de la Presidencia.",
+      "d": "Al Presidente de la Mesa del Congreso."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 3,
+    "pregunta": "Según el artículo 159 de la Constitución Española, el Tribunal Constitucional se compone de:",
+    "opciones": {
+      "a": "Doce miembros nombrados por el Rey; de ellos, tres serán a propuesta del Congreso por mayoría de tres quintos.",
+      "b": "Doce miembros nombrados por el Rey; de ellos, cuatro serán a propuesta del Congreso por mayoría de tres quintos.",
+      "c": "Dieciséis miembros nombrados por el Rey; de ellos, cuatro serán a propuesta del Congreso por mayoría de tres quintos.",
+      "d": "Dieciséis miembros nombrados por el Rey; de ellos, tres serán a propuesta del Congreso por mayoría de tres quintos."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 4,
+    "pregunta": "Según el artículo 68 de la Constitución Española, indique de cuántos diputados se compone el Congreso:",
+    "opciones": {
+      "a": "De un mínimo de 250 y de un máximo de 350.",
+      "b": "De un mínimo de 300 y de un máximo de 400.",
+      "c": "De un mínimo de 300 y de un máximo de 350.",
+      "d": "De un mínimo de 350 y de un máximo de 400."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 5,
+    "pregunta": "Según se expone en el artículo 113 de la Constitución Española, la moción de censura deberá ser propuesta por:",
+    "opciones": {
+      "a": "Al menos la décima parte de los Diputados.",
+      "b": "Al menos un veinte por ciento de los Diputados.",
+      "c": "Al menos la décima parte de cada una de las Cámaras.",
+      "d": "Al menos 20 Diputados y 20 Senadores."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Cuál de los siguientes NO es uno de los 17 Objetivos de Desarrollo Sostenible de la Agenda 2030?",
+    "opciones": {
+      "a": "Hambre cero.",
+      "b": "Educación de calidad.",
+      "c": "Aguas residuales y saneamiento.",
+      "d": "Trabajo decente y crecimiento económico."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 7,
+    "pregunta": "Según la Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno, ¿cuál de los siguientes NO es miembro de la Comisión de Transparencia y Buen Gobierno?",
+    "opciones": {
+      "a": "Un Diputado.",
+      "b": "Un representante de la Subsecretaría de Estado de Administraciones Públicas.",
+      "c": "Un representante del Defensor del Pueblo.",
+      "d": "Un representante de la Autoridad Independiente de Responsabilidad Fiscal."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 8,
+    "pregunta": "Indique cuál es el Título de la Constitución Española relativo a la Organización Territorial del Estado:",
+    "opciones": {
+      "a": "Título IV.",
+      "b": "Título VI.",
+      "c": "Título VIII.",
+      "d": "Título X."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 9,
+    "pregunta": "De acuerdo con el artículo 103.1 de la Constitución Española, la Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de:",
+    "opciones": {
+      "a": "Eficacia, eficiencia, descentralización, desconcentración y cooperación, con sometimiento pleno a la Ley y al Derecho.",
+      "b": "Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
+      "c": "Eficacia, jerarquía, descentralización, concentración y coordinación, con sometimiento pleno al ordenamiento jurídico.",
+      "d": "Eficacia, jerarquía, descentralización, desconcentración y cooperación, con sometimiento pleno a la Ley y al Derecho."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 10,
+    "pregunta": "Según lo establecido en el artículo 82 de la Constitución Española, cuando se trate de refundir varios textos legales en uno solo, la delegación legislativa de las Cortes Generales en el Gobierno deberá otorgarse mediante:",
+    "opciones": {
+      "a": "Una Ley de Bases.",
+      "b": "Una Ley Orgánica.",
+      "c": "Una Ley Ordinaria.",
+      "d": "Un Decreto Legislativo."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 11,
+    "pregunta": "En el artículo 51 de la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, se definen criterios de actuación de las Administraciones públicas. ¿Cuál de los siguientes es uno de ellos?",
+    "opciones": {
+      "a": "Facilitar la conciliación de la vida familiar y laboral, sin menoscabo de la formación profesional y acción social.",
+      "b": "Fomentar la participación en igualdad, tanto en el acceso al empleo público como a lo largo de la carrera profesional.",
+      "c": "Establecer medidas cautelares de protección frente al acoso sexual.",
+      "d": "Establecer medidas efectivas para eliminar cualquier discriminación retributiva, directa o indirecta, por razón de sexo."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 12,
+    "pregunta": "Según el artículo 8 de la Ley Orgánica 3/2007, todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad constituye:",
+    "opciones": {
+      "a": "Discriminación indirecta por razón de sexo.",
+      "b": "Discriminación directa por razón de sexo.",
+      "c": "Discriminación por asociación en razón de sexo.",
+      "d": "Discriminación maternal por razón de sexo."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 13,
+    "pregunta": "Según el artículo 26 de la Ley 39/2006, señale la opción correcta en relación a la clasificación de los grados de dependencia:",
+    "opciones": {
+      "a": "Grado I. Dependencia moderada...",
+      "b": "Grado II. Gran dependencia...",
+      "c": "Grado III. Dependencia total...",
+      "d": "Grado IV. Dependencia máxima..."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 14,
+    "pregunta": "En relación al DNIe v3.0, indique la respuesta correcta:",
+    "opciones": {
+      "a": "Contiene dos certificados electrónicos de componentes: uno de Autenticación y otro de Firma.",
+      "b": "La renovación de los certificados puede realizarse en Puntos de Actualización y por Internet.",
+      "c": "Los certificados tienen un plazo de validez de 24 meses.",
+      "d": "El PIN debe tener un mínimo de 8 caracteres y un máximo de 12."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 15,
+    "pregunta": "La nueva Agenda Digital 'España Digital 2025' recoge un conjunto de medidas. ¿En cuántos ejes se articulan?",
+    "opciones": {
+      "a": "6",
+      "b": "9",
+      "c": "12",
+      "d": "10"
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué algoritmos criptográficos soporta el DNIe v3.0?",
+    "opciones": {
+      "a": "RSA, PGP y Blowfish.",
+      "b": "RC5 y MD5.",
+      "c": "ElGamal, MD5 y Triple DES.",
+      "d": "RSA, SHA-256, Triple DES y AES."
+    },
+    "correcta": "d",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 17,
+    "pregunta": "Con respecto a la prescripción de sanciones según la LOPDGDD, señale cuál es correcta:",
+    "opciones": {
+      "a": "Prescriben en 10 meses.",
+      "b": "Prescriben en 1 año.",
+      "c": "Prescriben en 2 años.",
+      "d": "Prescriben en 3 años."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 18,
+    "pregunta": "Señale la respuesta correcta en relación al ámbito de aplicación material del RGPD:",
+    "opciones": {
+      "a": "Se aplica al tratamiento penal por autoridades competentes.",
+      "b": "Se aplica al tratamiento automatizado y no automatizado destinado a ser incluido en un fichero.",
+      "c": "Se aplica al tratamiento personal o doméstico.",
+      "d": "Se aplica al tratamiento total de datos personales."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 19,
+    "pregunta": "Según el Esquema Nacional de Seguridad, ¿qué medida afecta a la dimensión de Trazabilidad?",
+    "opciones": {
+      "a": "Copias de seguridad.",
+      "b": "Sellos de tiempo.",
+      "c": "Cifrado.",
+      "d": "Firma electrónica."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 20,
+    "pregunta": "Conforme al artículo 30 de la Ley 39/2015, el cómputo de plazos señalados en días se entiende como:",
+    "opciones": {
+      "a": "Días hábiles desde el día siguiente.",
+      "b": "Días hábiles desde el mismo día.",
+      "c": "Días naturales desde el día siguiente.",
+      "d": "Días naturales desde el mismo día."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 21,
+    "pregunta": "La guía de auditoría del ENI contiene un conjunto de controles agrupados en tres categorías. ¿Cuál es la opción correcta?",
+    "opciones": {
+      "a": "Marco organizativo, Marco operacional y Medidas de protección.",
+      "b": "Marco organizativo, Marco semántico y Marco de seguridad.",
+      "c": "Evaluación organizativa, Evaluación semántica y Evaluación temporal.",
+      "d": "Marco organizativo, Marco operacional y Medidas técnicas."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Cuál de las siguientes NO es una Norma Técnica de Interoperabilidad?",
+    "opciones": {
+      "a": "Catálogo de estándares.",
+      "b": "Modelo de Datos para el intercambio de asientos entre las Entidades Registrales.",
+      "c": "Protocolo de gestión de recursos de la Administración.",
+      "d": "Expediente Electrónico."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 23,
+    "pregunta": "Dentro de los servicios horizontales de Administración Electrónica, ¿cuál es la funcionalidad principal de eVisor?",
+    "opciones": {
+      "a": "Crear mapas interactivos sin conocimientos de georreferenciación.",
+      "b": "Generar copia auténtica en papel de documentos con firma electrónica.",
+      "c": "Herramienta GIS para gestión de información mediante georreferenciación.",
+      "d": "Servicio de diagnóstico de accesibilidad web."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué solución común permite la gestión de la nómina de empleados públicos?",
+    "opciones": {
+      "a": "SOROLLA2",
+      "b": "BADARAL",
+      "c": "NEDAES",
+      "d": "NOMINAe"
+    },
+    "correcta": "d",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Qué es la arquitectura ARM?",
+    "opciones": {
+      "a": "Una arquitectura avanzada para microprocesadores RISC.",
+      "b": "Una arquitectura para computación en la nube basada en agentes autónomos.",
+      "c": "Una arquitectura de almacenamiento basada en fibra óptica.",
+      "d": "Una arquitectura de computación cuántica."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 26,
+    "pregunta": "Indique la velocidad máxima de transferencia del USB 4.0:",
+    "opciones": {
+      "a": "Hasta 20 Gbps.",
+      "b": "Hasta 30 Gbps.",
+      "c": "Hasta 40 Gbps.",
+      "d": "Hasta 50 Gbps."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 27,
+    "pregunta": "Indique cuál de las siguientes es una tecnología de interfaz hardware:",
+    "opciones": {
+      "a": "Thunderbird",
+      "b": "HIT",
+      "c": "Thunderbolt",
+      "d": "RISC"
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Qué es un SSD?",
+    "opciones": {
+      "a": "Secure System Disk, almacenamiento cifrado AES 128.",
+      "b": "Solid State Disk, dispositivo con discos magnéticos.",
+      "c": "Solid State Drive, dispositivo con memoria no volátil.",
+      "d": "Solid State Device, dispositivo con memoria volátil."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 29,
+    "pregunta": "AV1 es un:",
+    "opciones": {
+      "a": "Sistema de realidad aumentada.",
+      "b": "Sistema operativo para IoT.",
+      "c": "Códec de vídeo.",
+      "d": "Estándar de seguridad para WiFi 6."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 30,
+    "pregunta": "Si un árbol binario se recorre raíz → subárbol izquierdo → subárbol derecho, ¿qué recorrido es?",
+    "opciones": {
+      "a": "Preorden",
+      "b": "Inorden",
+      "c": "Postorden",
+      "d": "Reorden"
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 31,
+    "pregunta": "En una distribución Linux, ¿qué directorio contiene los ficheros de configuración del sistema y aplicaciones?",
+    "opciones": {
+      "a": "/root",
+      "b": "/bin",
+      "c": "/dev",
+      "d": "/etc"
+    },
+    "correcta": "d",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 32,
+    "pregunta": "En Linux, si se ejecuta chmod 640, ¿qué permisos se asignan?",
+    "opciones": {
+      "a": "rwx para propietario, r para grupo, nada para otros.",
+      "b": "rwx propietario, rw grupo, x otros.",
+      "c": "rw propietario, r grupo, nada otros.",
+      "d": "rw propietario, x grupo, nada otros."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Cuál de los siguientes NO es un ORM?",
+    "opciones": {
+      "a": "ADO.NET Entity Framework",
+      "b": "Ruby Hibernation",
+      "c": "NHibernate",
+      "d": "Hibernate"
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Cuál de las siguientes opciones NO se corresponde con una de las 12 Reglas de Codd?",
+    "opciones": {
+      "a": "Regla de la no subversión.",
+      "b": "Tratamiento sistemático de valores nulos.",
+      "c": "Dependencia de la distribución.",
+      "d": "Catálogo dinámico en línea basado en el modelo relacional."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 35,
+    "pregunta": "Indique la definición correcta en referencia a los diagramas de flujo de datos de Métrica v3:",
+    "opciones": {
+      "a": "Almacén de datos: representa la información en movimiento.",
+      "b": "Proceso de control: coordina y sincroniza actividades.",
+      "c": "Flujo de control: flujo entre dos procesos de control.",
+      "d": "Flujo de datos: movimiento de datos entre almacenes."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 36,
+    "pregunta": "Una tabla está en 3FN si:",
+    "opciones": {
+      "a": "Está en 2FN y los atributos no clave dependen totalmente de la clave.",
+      "b": "Está en 2FN y no existe dependencia transitiva de atributos no principales.",
+      "c": "Está en 2FN y no existen dependencias de reunión no triviales.",
+      "d": "Está en 2FN y los atributos no clave dependen de la clave principal."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 37,
+    "pregunta": "Según Métrica v3, ¿qué es una Dependencia Funcional?",
+    "opciones": {
+      "a": "Y depende funcionalmente de X si depende de él en su totalidad.",
+      "b": "Y depende funcionalmente de X si a cada valor de X corresponde un único valor de Y.",
+      "c": "Un atributo depende de otro si depende de él a través de otro atributo.",
+      "d": "Un atributo X solo puede tomar un único valor de dominio simple."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 38,
+    "pregunta": "En C++, un bucle do...while:",
+    "opciones": {
+      "a": "Solo se ejecuta si la condición es verdadera.",
+      "b": "Evalúa la condición y luego se ejecuta al menos una vez.",
+      "c": "Se ejecuta una vez antes de evaluar la condición.",
+      "d": "Se ejecuta una vez si la condición es verdadera."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 39,
+    "pregunta": "Señale la respuesta correcta sobre tecnologías front‑end:",
+    "opciones": {
+      "a": "Sass, Less y Stylus son preprocesadores CSS.",
+      "b": "Postman sirve para probar front‑end, no REST.",
+      "c": "Node.js usa el motor Java JRE 1.9.",
+      "d": "Bootstrap permite testear servicios REST."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 40,
+    "pregunta": "En Java, una clase declarada como 'abstract':",
+    "opciones": {
+      "a": "Puede no estar implementada o estarlo de manera incompleta.",
+      "b": "Puede ser instanciada.",
+      "c": "No puede ser extendida.",
+      "d": "No existe el modificador abstract."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 41,
+    "pregunta": "En la declaración de una clase en Java, ¿mediante qué cláusula es posible definir uno o varios interfaces para la clase?",
+    "opciones": {
+      "a": "Mediante la cláusula 'interfaces'.",
+      "b": "Mediante la cláusula 'declares'.",
+      "c": "Mediante la cláusula 'implements'.",
+      "d": "En Java no es posible declarar una clase con más de un interface."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 42,
+    "pregunta": "En una base de datos relacional, ¿cuál sería una forma válida de comenzar la creación de un Trigger en ANSI SQL para validar un cambio en el campo Salario?",
+    "opciones": {
+      "a": "CREATE TRIGGER Validar_salario BEFORE UPDATE OF Salario OF TABLE Empleados",
+      "b": "CREATE NEW TRIGGER BEFORE UPDATE OF Salario ON Empleados",
+      "c": "CREATE TRIGGER Validar_salario IN Empleados BEFORE UPDATE OF Salario",
+      "d": "CREATE TRIGGER Validar_salario BEFORE UPDATE OF Salario ON Empleados"
+    },
+    "correcta": "d",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 43,
+    "pregunta": "En Oracle 10g, ¿qué se puede hacer para establecer un punto de recuperación dentro de una transacción?",
+    "opciones": {
+      "a": "Utilizar la sentencia SAVEPOINT.",
+      "b": "Utilizar la sentencia ROLLBACK.",
+      "c": "Usar los comandos GRANT.",
+      "d": "Utilizar la sentencia RECOVERPOINT."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 44,
+    "pregunta": "Respecto a los patrones de diseño GoF, ¿qué definición corresponde al patrón Decorator?",
+    "opciones": {
+      "a": "Permite agregar funcionalidad a un objeto dinámicamente.",
+      "b": "Proporciona una interfaz unificada para un conjunto de interfaces.",
+      "c": "Proporciona un sustituto o representante de otro objeto.",
+      "d": "Permite acceder secuencialmente a los elementos de un objeto agregado."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Cuál de las siguientes afirmaciones NO se corresponde con el lenguaje UML?",
+    "opciones": {
+      "a": "Una clase se representa mediante un rectángulo con tres secciones.",
+      "b": "Las asociaciones representan relaciones entre elementos estructurales.",
+      "c": "Un tipo de asociación entre elementos estructurales es la dispersión.",
+      "d": "La agregación representa una clase que es parte de otra."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 46,
+    "pregunta": "En Java, siendo x = 6 e y = 3, ¿cuál es el resultado de x ^ y?",
+    "opciones": {
+      "a": "216",
+      "b": "63",
+      "c": "3",
+      "d": "5"
+    },
+    "correcta": "d",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 47,
+    "pregunta": "En el entorno de programación .NET, ¿qué es un NuGet?",
+    "opciones": {
+      "a": "Una biblioteca de clases base.",
+      "b": "Un administrador de paquetes.",
+      "c": "Una implementación de .NET.",
+      "d": "Un entorno de ejecución."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Cuál de las siguientes opciones corresponde a una API de Java para el procesamiento de documentos XML?",
+    "opciones": {
+      "a": "JNA",
+      "b": "StAX",
+      "c": "JNI",
+      "d": "JPaX"
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Cuál NO es una característica de los servicios REST?",
+    "opciones": {
+      "a": "Utiliza métodos HTTP de forma explícita.",
+      "b": "La solicitud no requiere que el servidor recupere información de estado.",
+      "c": "Admite XML y JSON para transmisión de datos.",
+      "d": "Usa la especificación UDDI para publicar servicios."
+    },
+    "correcta": "d",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Cuál de las siguientes afirmaciones es relativa a Ruby on Rails?",
+    "opciones": {
+      "a": "Es un lenguaje de programación creado por G. Ruby.",
+      "b": "Es un framework de control de versiones escrito en Ruby.",
+      "c": "Es un framework de desarrollo web basado en MVC.",
+      "d": "Es un servicio de .NET."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 51,
+    "pregunta": "En Python, ¿cómo se identifica el bloque de código de un 'if'?",
+    "opciones": {
+      "a": "Con llaves {}.",
+      "b": "Con corchetes [].",
+      "c": "Con paréntesis ().",
+      "d": "Mediante sangría consistente en cada línea."
+    },
+    "correcta": "d",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 52,
+    "pregunta": "En XML, ¿cuál es la sintaxis correcta para añadir comentarios?",
+    "opciones": {
+      "a": "<-- Aquí va el comentario / -->",
+      "b": "< Aquí va el comentario !>",
+      "c": "<!-- Aquí va el comentario -->",
+      "d": "<--! Aquí va el comentario -->"
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 53,
+    "pregunta": "Según el Real Decreto 1112/2018 sobre accesibilidad, indique la INCORRECTA:",
+    "opciones": {
+      "a": "Las entidades obligadas deberán ofrecer un mecanismo de comunicación.",
+      "b": "La primera revisión de accesibilidad para sitios web debía realizarse antes de dos años.",
+      "c": "La primera revisión para apps móviles debía realizarse antes de dos años.",
+      "d": "La entidad deberá responder solicitudes de accesibilidad en 20 días hábiles."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 54,
+    "pregunta": "Según WCAG 2.1, ¿qué significa que un contenido sea 'Distinguible'?",
+    "opciones": {
+      "a": "Puede presentarse de diferentes formas sin perder estructura.",
+      "b": "Facilita ver y oír el contenido, separando fondo y primer plano.",
+      "c": "Proporciona alternativas textuales a contenido no textual.",
+      "d": "Proporciona alternativas para medios temporales."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 55,
+    "pregunta": "Según Métrica v3, ¿qué pruebas verifican que los tiempos de respuesta cumplen las especificaciones?",
+    "opciones": {
+      "a": "Pruebas de respuesta.",
+      "b": "Pruebas de sobrecarga.",
+      "c": "Pruebas de rendimiento.",
+      "d": "Pruebas de tiempo."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 56,
+    "pregunta": "En Git, hacer un 'commit' es:",
+    "opciones": {
+      "a": "Introducir comentarios iterativos.",
+      "b": "Establecer un compromiso de uso.",
+      "c": "Descargar la rama del repositorio central.",
+      "d": "Almacenar una nueva instantánea del proyecto."
+    },
+    "correcta": "d",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 57,
+    "pregunta": "¿Qué herramienta de software libre se utiliza para pruebas de carga y estrés?",
+    "opciones": {
+      "a": "Cactus",
+      "b": "Mockito",
+      "c": "JMeter",
+      "d": "Foglight"
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 58,
+    "pregunta": "En Linux, ¿qué comando permite conocer qué puertos tiene abiertos un servidor?",
+    "opciones": {
+      "a": "ntpq",
+      "b": "ntport",
+      "c": "nmap",
+      "d": "traceroute"
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 59,
+    "pregunta": "En sistemas Debian, ¿qué comando descarga la información de los paquetes desde todas las fuentes configuradas?",
+    "opciones": {
+      "a": "apt update",
+      "b": "apt upgrade",
+      "c": "apt full-upgrade",
+      "d": "apt list"
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Qué es el 'Thin Provisioning' en administración de almacenamiento?",
+    "opciones": {
+      "a": "Mecanismo de despliegue de discos en red para clientes ligeros.",
+      "b": "Método de virtualización que asigna espacio de forma puntual.",
+      "c": "Tecnología para agregar discos físicos en caliente.",
+      "d": "Método que asigna todo el espacio virtualizado y luego lo reduce."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 61,
+    "pregunta": "En relación a los sistemas RAID, indique qué configuración permite acceso independiente con paridad distribuida:",
+    "opciones": {
+      "a": "RAID 1",
+      "b": "RAID 3",
+      "c": "RAID 4",
+      "d": "RAID 5"
+    },
+    "correcta": "d",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 62,
+    "pregunta": "Durante el envío de un correo electrónico, ¿qué papel juegan SMTP, POP3 e IMAP?",
+    "opciones": {
+      "a": "SMTP se usa del cliente al servidor de origen; POP3 o IMAP entre servidores; SMTP al destino.",
+      "b": "POP3 se usa para enviar correos; SMTP para recibirlos.",
+      "c": "SMTP se usa para enviar correos; POP3 o IMAP para recibirlos.",
+      "d": "IMAP se usa para enviar correos; SMTP para almacenarlos."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Cuál es una ventaja del uso del protocolo IMAP frente a POP3?",
+    "opciones": {
+      "a": "Permite visualizar los correos directamente en el servidor sin descargarlos.",
+      "b": "Es más sencillo que POP3.",
+      "c": "No requiere autenticación.",
+      "d": "Descarga automáticamente los correos del servidor."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 64,
+    "pregunta": "¿Cuáles de las siguientes son tecnologías relacionadas con la contenerización?",
+    "opciones": {
+      "a": "Docker, Containerd y Podman.",
+      "b": "Docker, Kubernetes y Debian.",
+      "c": "LXC, Debian y Podman.",
+      "d": "Kubernetes, Ubuntu y Docker."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 65,
+    "pregunta": "Indique la respuesta INCORRECTA respecto a PoE (Power over Ethernet):",
+    "opciones": {
+      "a": "PoE permite transmitir energía y datos por el mismo cable.",
+      "b": "Existen PoE activo y PoE pasivo.",
+      "c": "PoE pasivo no sigue ningún estándar IEEE.",
+      "d": "El último estándar de PoE activo es IEEE 802.3at."
+    },
+    "correcta": "d",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 66,
+    "pregunta": "La norma IEEE 802.11 se refiere a:",
+    "opciones": {
+      "a": "Redes inalámbricas.",
+      "b": "Redes de área metropolitana.",
+      "c": "Redes integradas de voz y datos.",
+      "d": "Seguridad de red."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 67,
+    "pregunta": "¿Cuál de las siguientes es una herramienta de ticketing para gestión de incidentes de seguridad según el ENS?",
+    "opciones": {
+      "a": "ATENEA",
+      "b": "MONICA",
+      "c": "LUCIA",
+      "d": "INES"
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 68,
+    "pregunta": "Sobre el formato de firma digital CAdES, indique la respuesta correcta:",
+    "opciones": {
+      "a": "Es apropiado para firmar ficheros grandes, especialmente si la firma contiene el documento.",
+      "b": "Es el formato utilizado por Microsoft Office.",
+      "c": "El resultado es un fichero XML.",
+      "d": "Es el formato más adecuado cuando el documento original es un PDF."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 69,
+    "pregunta": "Indique la respuesta correcta sobre tipos de ataque:",
+    "opciones": {
+      "a": "El sniffing es la generación de tráfico con origen falseado.",
+      "b": "El spoofing es la captura del tráfico.",
+      "c": "Un DDoS es un ataque desde un único punto a varios objetivos.",
+      "d": "El escaneo de puertos obtiene información sobre servicios ofrecidos."
+    },
+    "correcta": "d",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 70,
+    "pregunta": "¿Qué dispositivo filtra el tráfico de una LAN permitiendo conectividad a otros segmentos?",
+    "opciones": {
+      "a": "Switch",
+      "b": "Hub",
+      "c": "Router",
+      "d": "Gateway"
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 71,
+    "pregunta": "¿Qué equipo de interconexión trabaja a nivel de red (nivel 3 OSI)?",
+    "opciones": {
+      "a": "Router",
+      "b": "Bridge",
+      "c": "Switch",
+      "d": "Hub"
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 72,
+    "pregunta": "¿Cuál es la respuesta INCORRECTA sobre la fibra óptica plástica (POF)?",
+    "opciones": {
+      "a": "Está hecha de polimetilmetacrilato.",
+      "b": "Permite aprovechar todo el ancho de banda sin pérdidas.",
+      "c": "Tiene un núcleo menor que la fibra tradicional.",
+      "d": "Es muy flexible para instalaciones antiguas."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 73,
+    "pregunta": "¿Cuál es el prefijo de dirección Multicast en IPv6?",
+    "opciones": {
+      "a": "::1/128",
+      "b": "224.0.0.0/4",
+      "c": "FF00::/8",
+      "d": "FC00::/7"
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 74,
+    "pregunta": "Seleccione la respuesta correcta sobre los niveles y servicios del modelo OSI:",
+    "opciones": {
+      "a": "El modelo OSI puede reducirse a TCP/IP en dos niveles.",
+      "b": "Las entidades en un nivel N+1 ofrecen servicios al nivel N.",
+      "c": "Un servicio confirmado usa Request, Indication, Response, Confirm.",
+      "d": "Un servicio no confirmado usa Request, Indication, Response."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Qué organismo de la ONU regula las telecomunicaciones internacionales?",
+    "opciones": {
+      "a": "ICANN",
+      "b": "ITU",
+      "c": "IEEE",
+      "d": "TIA"
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 76,
+    "pregunta": "¿Qué parte del certificado necesita un navegador para establecer HTTPS?",
+    "opciones": {
+      "a": "La clave pública del sitio web.",
+      "b": "La clave privada del sitio web.",
+      "c": "Ambas claves pública y privada.",
+      "d": "Ninguna, depende del cliente."
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 77,
+    "pregunta": "¿Qué es un portal cautivo?",
+    "opciones": {
+      "a": "Un sitio bloqueado por ransomware.",
+      "b": "Una web en fase de pruebas.",
+      "c": "Una web que no cumple WCAG AA.",
+      "d": "Una página que gestiona acceso a una red inalámbrica."
+    },
+    "correcta": "d",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 78,
+    "pregunta": "Entre los protocolos usados por VPN para cifrado NO se encuentra:",
+    "opciones": {
+      "a": "PPTP/MPPE",
+      "b": "IPSec",
+      "c": "L2TP/IPSec",
+      "d": "KSEC 1.1"
+    },
+    "correcta": "d",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 79,
+    "pregunta": "¿Qué significa CSMA/CD?",
+    "opciones": {
+      "a": "Acceso múltiple por servicio de portadora y múltiples colisiones.",
+      "b": "Acceso múltiple con detección de portadora y detección de colisiones.",
+      "c": "Acceso único con múltiples colisiones y detección de portadora.",
+      "d": "Acceso único de múltiples portadoras y detección de colisiones."
+    },
+    "correcta": "b",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 80,
+    "pregunta": "¿Qué dispositivo filtra tráfico local manteniéndolo en la LAN pero permitiendo conectividad externa?",
+    "opciones": {
+      "a": "Switch",
+      "b": "Hub",
+      "c": "Router",
+      "d": "Gateway"
+    },
+    "correcta": "a",
+    "examen": "TAI 2019"
+  },
+  {
+    "id": 81,
+    "pregunta": "¿A qué se corresponden las siglas de Red SOHO?",
+    "opciones": {
+      "a": "Small Own, Home Own.",
+      "b": "Small Office, Home Own.",
+      "c": "Small Office, Home Office.",
+      "d": "Small Office, House Office."
+    },
+    "correcta": "c",
+    "examen": "TAI 2019",
+    "reserva": true
+  },
+  {
+    "id": 82,
+    "pregunta": "Dentro de los dispositivos Android, ¿cuál NO es una capa de personalización?",
+    "opciones": {
+      "a": "MIUI",
+      "b": "PenPoint OS",
+      "c": "One UI",
+      "d": "OriginOS"
+    },
+    "correcta": "b",
+    "examen": "TAI 2019",
+    "reserva": true
+  },
+  {
+    "id": 83,
+    "pregunta": "¿Qué paquete R en SQL Server Machine Learning Services permite transformaciones, resúmenes estadísticos y modelado?",
+    "opciones": {
+      "a": "Revoscalepy",
+      "b": "Microsoftml",
+      "c": "Revoscaler",
+      "d": "SqlRutils"
+    },
+    "correcta": "c",
+    "examen": "TAI 2019",
+    "reserva": true
+  },
+  {
+    "id": 84,
+    "pregunta": "¿Cuál de los siguientes lenguajes está relacionado con el desarrollo backend?",
+    "opciones": {
+      "a": "GO",
+      "b": "SASS",
+      "c": "XML",
+      "d": "ANGULAR"
+    },
+    "correcta": "a",
+    "examen": "TAI 2019",
+    "reserva": true
+  },
+  {
+    "id": 85,
+    "pregunta": "¿Cuáles son los tipos de configuración contemplados para WPS?",
+    "opciones": {
+      "a": "PIN, PBC, USB",
+      "b": "PIN, NFC, USB",
+      "c": "PIN, USB",
+      "d": "PIN, PBC, NFC, USB"
+    },
+    "correcta": "d",
+    "examen": "TAI 2019",
+    "reserva": true
+  }
+]

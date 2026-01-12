@@ -1,0 +1,1323 @@
+[
+  {
+    "id": 1,
+    "pregunta": "De acuerdo con el artículo 64 de la Constitución Española de 1978, los actos del Rey, excepto la propuesta y el nombramiento del Presidente del Gobierno, y la disolución de las Cámaras prevista en el artículo 99, serán refrendados por:",
+    "opciones": {
+      "a": "Los Presidentes del Congreso y el Senado.",
+      "b": "Los Ministros o los Secretarios de Estado en función de la materia.",
+      "c": "El Presidente del Gobierno y, en su caso, por los Presidentes del Congreso y el Senado.",
+      "d": "El Presidente del Gobierno y, en su caso, por los Ministros competentes."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 2,
+    "pregunta": "La suspensión de los derechos y libertades se encuentra regulada en la Constitución Española en:",
+    "opciones": {
+      "a": "El Capítulo III del Título I.",
+      "b": "En sus artículos 52 y 53.",
+      "c": "En el artículo 58.",
+      "d": "En el Capítulo V del Título I."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 3,
+    "pregunta": "Según el artículo 68 de la Constitución Española, ¿cuál es la circunscripción electoral en nuestro sistema electoral?",
+    "opciones": {
+      "a": "La provincia.",
+      "b": "El municipio.",
+      "c": "La Comunidad Autónoma.",
+      "d": "Distrito Municipal."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 4,
+    "pregunta": "Según el artículo 18 de la Ley 50/1997, del Gobierno, ¿quién actúa como Secretario del Consejo de Ministros?",
+    "opciones": {
+      "a": "El Vicepresidente Primero.",
+      "b": "El Ministro portavoz del Gobierno.",
+      "c": "El Ministro de la Presidencia.",
+      "d": "El Ministro de Justicia."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 5,
+    "pregunta": "De acuerdo con el artículo 78 de la Constitución Española, expirado el mandato de las Cortes Generales o en caso de disolución de las mismas, las Diputaciones Permanentes seguirán ejerciendo sus funciones hasta:",
+    "opciones": {
+      "a": "La celebración de las elecciones.",
+      "b": "La proclamación de los resultados electorales definitivos.",
+      "c": "La elección de los nuevos presidentes de cada Cámara.",
+      "d": "La constitución de las nuevas Cortes Generales."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 6,
+    "pregunta": "Según el artículo 24 de la Ley 19/2013, el plazo máximo para resolver y notificar la resolución de una reclamación ante el Consejo de Transparencia y Buen Gobierno será de:",
+    "opciones": {
+      "a": "Un mes, transcurrido el cual, la reclamación se entenderá estimada.",
+      "b": "Un mes, transcurrido el cual, la reclamación se entenderá desestimada.",
+      "c": "Tres meses, transcurrido el cual, la reclamación se entenderá estimada.",
+      "d": "Tres meses, transcurrido el cual, la reclamación se entenderá desestimada."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 7,
+    "pregunta": "Señale cuál de los siguientes NO es un compromiso del IV Plan de Gobierno Abierto de España:",
+    "opciones": {
+      "a": "Participación de los jóvenes en políticas públicas.",
+      "b": "Protección de denunciantes.",
+      "c": "Huella normativa.",
+      "d": "Reforma del marco regulatorio."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 8,
+    "pregunta": "Conforme al artículo 18 de la Ley 53/1984, todas las resoluciones de compatibilidad para desempeñar un segundo puesto o actividad se inscribirán:",
+    "opciones": {
+      "a": "En el Registro Central de Personal.",
+      "b": "En la Oficina de Conflicto de Intereses.",
+      "c": "En la Unidad de Personal del Ministerio u Organismo correspondiente.",
+      "d": "En los Registros de Personal correspondientes."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 9,
+    "pregunta": "De acuerdo con el artículo 30 de la Ley 39/2006, el grado de dependencia será revisable:",
+    "opciones": {
+      "a": "A instancia del interesado.",
+      "b": "A instancia de los representantes del interesado.",
+      "c": "De oficio por las Administraciones Públicas competentes.",
+      "d": "Todas las respuestas anteriores son correctas."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 10,
+    "pregunta": "Conforme al artículo 49 de la Ley Orgánica 3/2007, para impulsar la adopción voluntaria de planes de igualdad, el Gobierno establecerá:",
+    "opciones": {
+      "a": "Medidas de acción positiva dirigidas a pymes.",
+      "b": "Medidas de fomento dirigidas a empresas de 50 o más trabajadores.",
+      "c": "Medidas de fomento dirigidas a pymes.",
+      "d": "Medidas de acción positiva dirigidas a cualquier empresa."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 11,
+    "pregunta": "Con carácter general, el DNI tendrá un período de validez de:",
+    "opciones": {
+      "a": "Dos años cuando el solicitante no haya cumplido cinco años.",
+      "b": "Cuatro años entre cinco y treinta años.",
+      "c": "Nueve años entre treinta y setenta años.",
+      "d": "Permanente cuando el titular haya cumplido sesenta años."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 12,
+    "pregunta": "De acuerdo con el artículo 4 de la Ley 6/2020, el periodo de vigencia de los certificados cualificados:",
+    "opciones": {
+      "a": "No será superior a 5 años.",
+      "b": "No será superior a 3 años.",
+      "c": "Es ilimitado.",
+      "d": "No será superior a 6 años."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 13,
+    "pregunta": "Según el título X de la LOPDGDD, ¿cuál de los siguientes NO es un derecho digital?",
+    "opciones": {
+      "a": "Derecho al testamento digital.",
+      "b": "Derecho al olvido en redes sociales.",
+      "c": "Derecho a la desconexión digital.",
+      "d": "Derecho a la igualdad y no discriminación en el entorno digital."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 14,
+    "pregunta": "Según el artículo 34 de la LOPDGDD, los responsables comunicarán a la AEPD las designaciones y ceses de los DPD en el plazo de:",
+    "opciones": {
+      "a": "10 días.",
+      "b": "15 días.",
+      "c": "1 mes.",
+      "d": "3 meses."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 15,
+    "pregunta": "Según el Real Decreto 311/2022, ¿qué medida afecta a la dimensión de Confidencialidad?",
+    "opciones": {
+      "a": "Bloqueo de puesto de trabajo.",
+      "b": "Firma electrónica.",
+      "c": "Registro de actividad.",
+      "d": "Criptografía."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 16,
+    "pregunta": "Según la NTI de Protocolos de Intermediación de Datos:",
+    "opciones": {
+      "a": "Las tecnologías se implementarán en base a estándares del Catálogo de estándares.",
+      "b": "Se utilizará la versión 2.0 del protocolo SCSP.",
+      "c": "Emisores y Requirentes no mantendrán trazabilidad.",
+      "d": "Los intercambios podrán implementarse mediante servicios web."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 17,
+    "pregunta": "Señale la afirmación correcta respecto a soluciones del CCN:",
+    "opciones": {
+      "a": "CLARA: protección y trazabilidad del dato.",
+      "b": "ELENA: simulador de técnicas de cibervigilancia.",
+      "c": "GLORIA: gestión de eventos e información de seguridad.",
+      "d": "MONICA: gestor de logs ante incidentes."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 18,
+    "pregunta": "Señale la respuesta correcta referente a servicios comunes de administración electrónica:",
+    "opciones": {
+      "a": "SERVINOMINA gestiona todas las fases de nómina.",
+      "b": "CIRCAB es una herramienta colaborativa.",
+      "c": "eVISOR permite consultar nóminas de los últimos cinco años.",
+      "d": "ENVIA permite el envío de ficheros de gran volumen."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 19,
+    "pregunta": "La Constitución regula la institución del Defensor del Pueblo como:",
+    "opciones": {
+      "a": "Alto comisionado del Congreso.",
+      "b": "Alto comisionado de las Cortes Generales.",
+      "c": "Alto comisionado del Poder Judicial.",
+      "d": "Alto comisionado del Gobierno."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué es WCAG?",
+    "opciones": {
+      "a": "Pautas de accesibilidad web promovidas por el W3C.",
+      "b": "Una librería Java EE creada por Oracle.",
+      "c": "Un componente de Hadoop.",
+      "d": "Un framework JavaScript para bases de datos no relacionales."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Cuál de los siguientes es el nombre de un conector usado para carga y datos creado por el fabricante Apple?",
+    "opciones": {
+      "a": "USB‑Tipo C",
+      "b": "iUSB",
+      "c": "iFirewire",
+      "d": "Lightning"
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 22,
+    "pregunta": "Con respecto a las sentencias del lenguaje SQL, indique la respuesta INCORRECTA:",
+    "opciones": {
+      "a": "Sentencia DELETE sirve para borrar en forma sencilla distintos objetos como por ejemplo base de datos, tablas o índices.",
+      "b": "La sentencia INSERT agrega uno o más registros a una tabla.",
+      "c": "La sentencia UPDATE modifica los valores de un conjunto de registros existentes en una tabla.",
+      "d": "La sentencia GRANT se utiliza para dar permisos a un usuario."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Cuáles de los siguientes son los objetos básicos de Kubernetes?",
+    "opciones": {
+      "a": "Pod, State, Volume, Namespace.",
+      "b": "Pod, Service, Volume, Namespace.",
+      "c": "Job, Service, Volume, Namespace.",
+      "d": "Job, Pod, Volume, Deployment."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 24,
+    "pregunta": "La ALU es una parte de:",
+    "opciones": {
+      "a": "La memoria.",
+      "b": "La CPU.",
+      "c": "El bus de operaciones.",
+      "d": "El multiplexor de entrada."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 25,
+    "pregunta": "Señale la respuesta correcta sobre el modelo CISC:",
+    "opciones": {
+      "a": "La microprogramación es una característica esencial.",
+      "b": "Plantea un conjunto reducido de instrucciones para reducir ciclos de reloj.",
+      "c": "Implementa las instrucciones directamente en hardware.",
+      "d": "Está muy extendido en smartphones por su bajo consumo."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 26,
+    "pregunta": "En relación con los sistemas RAID señale la respuesta INCORRECTA:",
+    "opciones": {
+      "a": "El RAID 1+0 exige un mínimo de 4 discos.",
+      "b": "RAID 6 amplía el RAID 5 agregando un bloque de paridad.",
+      "c": "RAID 5 necesitará un mínimo de 3 discos.",
+      "d": "Un RAID 4 distribuye la información a nivel de bloques con dos discos de paridad dedicados."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Cuál de las siguientes es una tecnología de almacenamiento en disco mediante bus serie?",
+    "opciones": {
+      "a": "SATA",
+      "b": "ATA",
+      "c": "SCSI",
+      "d": "DLT"
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 28,
+    "pregunta": "Respecto a la norma USB indique la respuesta INCORRECTA:",
+    "opciones": {
+      "a": "USB Type‑C es lo mismo que USB 3.1.",
+      "b": "La diferencia entre USB 3.1 Gen 1 y Gen 2 es solo la velocidad.",
+      "c": "USB 3.2 permite velocidades de hasta 20 Gbps.",
+      "d": "USB 2.0 puede llegar a 480 Mbps."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 29,
+    "pregunta": "En teoría de grafos, el algoritmo para la determinación del camino más corto desde un vértice origen se denomina:",
+    "opciones": {
+      "a": "Kruskal.",
+      "b": "Prim.",
+      "c": "Dijkstra.",
+      "d": "Floyd‑Warshall."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 30,
+    "pregunta": "Con respecto a los estándares PDF, señale la afirmación NO correcta:",
+    "opciones": {
+      "a": "PDF/UA es el estándar global para accesibilidad.",
+      "b": "PDF/A se usa para conservación a largo plazo.",
+      "c": "PDF/E se usa en flujos de ingeniería.",
+      "d": "PDF/I proporciona especificaciones para impresión final."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Cuál de las siguientes versiones es la más reciente de macOS?",
+    "opciones": {
+      "a": "macOS Sierra",
+      "b": "macOS Monterey",
+      "c": "macOS Big Sur",
+      "d": "macOS Ventura"
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 32,
+    "pregunta": "Cuál de las siguientes afirmaciones NO es correcta sobre Windows de 64 bits:",
+    "opciones": {
+      "a": "Un proceso de 64 bits no puede cargar DLL de 32 bits.",
+      "b": "Un proceso de 32 bits no puede cargar DLL de 64 bits.",
+      "c": "RPC entre procesos de 64 y 32 bits solo en el mismo equipo.",
+      "d": "RPC entre procesos de 64 y 32 bits también entre equipos distintos."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 33,
+    "pregunta": "Las bases de datos relacionales ofrecen propiedades ACID. Dicho acrónimo se refiere a:",
+    "opciones": {
+      "a": "Atomicidad, Consistencia, Aislamiento y Durabilidad.",
+      "b": "Atomicidad, Coherencia, Integridad y Distribución.",
+      "c": "Disponibilidad, Coherencia, Intensidad y Durabilidad.",
+      "d": "Atomicidad, Consistencia, Aislamiento y Disponibilidad."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 34,
+    "pregunta": "Entre las características obligatorias de un SGBD orientado a objetos NO se encuentra:",
+    "opciones": {
+      "a": "Debe permitir construir objetos complejos.",
+      "b": "El conjunto de tipos de datos debe ser fijo.",
+      "c": "Todos los objetos deben tener un identificador independiente.",
+      "d": "El esquema incluye únicamente un conjunto de clases."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Qué es Machine Learning Services para SQL Server?",
+    "opciones": {
+      "a": "Tecnología para copia y distribución de datos.",
+      "b": "Capacidad de ejecutar scripts de Python y R con datos relacionales.",
+      "c": "Producto de calidad de datos basado en conocimiento.",
+      "d": "Servicio principal para almacenar y proteger datos."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 36,
+    "pregunta": "Señale la respuesta correcta relativa al Modelo Entidad/Relación Extendido según MÉTRICA v3:",
+    "opciones": {
+      "a": "Un atributo se define sobre diversos dominios.",
+      "b": "El dominio no tiene existencia propia.",
+      "c": "La entidad es un objeto real o abstracto del que se desea almacenar información.",
+      "d": "La clave candidata es el conjunto de atributos que garantizan unicidad."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 37,
+    "pregunta": "La arquitectura ANSI/SPARC define tres niveles. Indique la afirmación INCORRECTA:",
+    "opciones": {
+      "a": "El nivel externo contiene las vistas externas.",
+      "b": "El nivel físico define almacenamiento y métodos de acceso.",
+      "c": "El nivel contextual define el formato de los campos.",
+      "d": "El nivel interno también recibe el nombre de nivel lógico."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 38,
+    "pregunta": "Cuál de las siguientes afirmaciones es FALSA:",
+    "opciones": {
+      "a": "Un intérprete ejecuta directamente instrucciones.",
+      "b": "Un compilador transforma código fuente a otro lenguaje.",
+      "c": "Un transpilador hace de intérprete y compilador a la vez.",
+      "d": "Un compilador cruzado genera código para otra plataforma."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 39,
+    "pregunta": "C++ permite especificar más de una función con el mismo nombre en el mismo ámbito. ¿Cómo se denominan?",
+    "opciones": {
+      "a": "Funciones dobles.",
+      "b": "Funciones repetidas.",
+      "c": "Funciones sobrecargadas.",
+      "d": "No se puede nombrar más de una función igual."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 40,
+    "pregunta": "Indica cuál es verdadera:",
+    "opciones": {
+      "a": "Un array almacena datos homogéneos en posiciones consecutivas.",
+      "b": "Bytecode es el código binario obtenido tras la compilación de Java.",
+      "c": "C++ es un lenguaje de segunda generación.",
+      "d": "La declaración «int vector2[] = {1,2,3,...}» es incorrecta."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 41,
+    "pregunta": "Señale la respuesta correcta sobre los tipos de controladores (drivers) JDBC:",
+    "opciones": {
+      "a": "Los drivers tipo 1 utilizan Java puro para implementar un protocolo de red de proveedores del SGBD.",
+      "b": "Los drivers tipo 3 utilizan un protocolo de red y middleware para comunicarse con un servidor.",
+      "c": "Según la tecnología utilizada para conectarse a la base de datos, los drivers JDBC se categorizan en 3 tipos diferentes.",
+      "d": "Los drivers tipo 2 son controladores puente que utilizan otra tecnología como ODBC."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 42,
+    "pregunta": "Señale la respuesta INCORRECTA. Los tipos más corrientes de anomalías de base de datos son:",
+    "opciones": {
+      "a": "Lecturas no repetibles.",
+      "b": "Lecturas hundidas.",
+      "c": "Lecturas sucias.",
+      "d": "Lecturas fantasma."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 43,
+    "pregunta": "En SQL, ¿cómo se pueden eliminar los datos en una tabla, pero no la propia definición de la tabla?",
+    "opciones": {
+      "a": "DROP TABLE",
+      "b": "DELETE",
+      "c": "REMOVE",
+      "d": "ERASE"
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Cuál de los siguientes términos hace referencia a patrones generales de software para asignación de responsabilidades en el diseño orientado a objetos?",
+    "opciones": {
+      "a": "OOD",
+      "b": "GRASP",
+      "c": "Booch",
+      "d": "Fan-In & Fan-Out"
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 45,
+    "pregunta": "Según MÉTRICA v3, la relación jerárquica entre un objeto que representa la totalidad y las partes que lo componen es una relación de tipo:",
+    "opciones": {
+      "a": "Herencia.",
+      "b": "Composición.",
+      "c": "Asociación.",
+      "d": "Agregación."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 46,
+    "pregunta": "Según MÉTRICA v3, ¿cuál es el diagrama que describe en detalle un determinado escenario de un caso de uso?",
+    "opciones": {
+      "a": "Diagrama de Interacción.",
+      "b": "Diagrama de representación.",
+      "c": "Diagrama de flujo de datos.",
+      "d": "Diagrama de casos de uso."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 47,
+    "pregunta": "Indique cuál de las siguientes NO es una librería de Java proporcionada por la Apache Foundation:",
+    "opciones": {
+      "a": "Log4J",
+      "b": "httpclient",
+      "c": "commons-io",
+      "d": "Mockete"
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 48,
+    "pregunta": "Seleccione la respuesta correcta sobre .NET:",
+    "opciones": {
+      "a": ".NET es un marco multiplataforma gratuito de Google.",
+      "b": ".NET es un proyecto de código abierto.",
+      "c": ".NET sirve exclusivamente para desarrollar aplicaciones móviles.",
+      "d": ".NET admite un amplio rango de lenguajes excepto C#."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 49,
+    "pregunta": "Señale la respuesta INCORRECTA referente al objeto POCO en .NET:",
+    "opciones": {
+      "a": "Es una estructura de datos que solo contiene propiedades o campos públicos.",
+      "b": "Es el acrónimo de Plain Old CLR Object.",
+      "c": "No hereda de otra clase o implementa una interfaz.",
+      "d": "Puede contener métodos, eventos y delegados."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 50,
+    "pregunta": "Cuál de las siguientes afirmaciones sobre REST es FALSA:",
+    "opciones": {
+      "a": "REST es el acrónimo de Representational State Transfer.",
+      "b": "Los objetos en REST siempre se manipulan a partir de la URI.",
+      "c": "URI son las siglas de Unique Resource Identifier.",
+      "d": "Utiliza un protocolo cliente/servidor sin estado."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 51,
+    "pregunta": "Señale cuál es un estándar OASIS que define mecanismos para establecer y compartir contextos de seguridad:",
+    "opciones": {
+      "a": "WS-Addressing",
+      "b": "WS-Federation",
+      "c": "WS-SecureConversation",
+      "d": "WS-Policy"
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 52,
+    "pregunta": "Señale la afirmación correcta con respecto a WSIL:",
+    "opciones": {
+      "a": "Es un método alternativo al descubrimiento de servicios Web.",
+      "b": "Define el modelo de programación y arquitectura de ejecución para servicios Web en Java EE.",
+      "c": "Define un modo de publicar y encontrar información sobre servicios Web.",
+      "d": "Es una organización para promover la interoperabilidad de servicios Web."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 53,
+    "pregunta": "¿Cuál es el motor web desarrollado por The Mozilla Foundation?",
+    "opciones": {
+      "a": "WebKit",
+      "b": "Firefox",
+      "c": "Gecko",
+      "d": "Edge"
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 54,
+    "pregunta": "¿Qué término está relacionado con XML-binary Optimized Packaging (XOP)?",
+    "opciones": {
+      "a": "Reconstituted XML Infoset",
+      "b": "XOP Header",
+      "c": "XOP Package",
+      "d": "Optimized Document"
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 55,
+    "pregunta": "¿Cuál de los siguientes NO es un framework para JavaScript?",
+    "opciones": {
+      "a": "Angular",
+      "b": "Bootstrap",
+      "c": "React",
+      "d": "JDBC"
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 56,
+    "pregunta": "Para detectar, eliminar y/o mitigar debilidades de una aplicación se pueden realizar diferentes análisis de seguridad, entre los que NO se encuentra:",
+    "opciones": {
+      "a": "SAST",
+      "b": "S-SDLC",
+      "c": "DAST",
+      "d": "SCA"
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 57,
+    "pregunta": "El principio de accesibilidad web que exige que los componentes y la navegación se puedan utilizar por cualquier persona es:",
+    "opciones": {
+      "a": "La perceptibilidad.",
+      "b": "La comprensibilidad.",
+      "c": "La robustez.",
+      "d": "La operabilidad."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 58,
+    "pregunta": "Según MÉTRICA v3, ¿qué tipo de pruebas verifican el correcto ensamblaje entre componentes?",
+    "opciones": {
+      "a": "Pruebas del sistema.",
+      "b": "Pruebas de implantación.",
+      "c": "Pruebas de regresión.",
+      "d": "Pruebas de integración."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 59,
+    "pregunta": "Según MÉTRICA v3, ¿qué participantes están presentes en la tarea de Elaboración de los Manuales de Usuario?",
+    "opciones": {
+      "a": "Usuarios Expertos.",
+      "b": "Consultor de Sistemas de Información.",
+      "c": "Equipo de Formación.",
+      "d": "Equipo de Proyecto."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Cuál de las siguientes herramientas NO es un software para control de versiones?",
+    "opciones": {
+      "a": "JMeter",
+      "b": "Subversion",
+      "c": "Mercurial",
+      "d": "GIT"
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 61,
+    "pregunta": "Señale la respuesta INCORRECTA sobre el kernel de un Sistema Operativo:",
+    "opciones": {
+      "a": "Controla todas las funciones importantes del hardware.",
+      "b": "Se encarga del procesamiento paralelo de tareas (multitasking).",
+      "c": "Es el núcleo del procesador.",
+      "d": "Recibe peticiones de servicio de los procesos y los comunica con el hardware."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 62,
+    "pregunta": "En un sistema UNIX, cuál es la respuesta INCORRECTA:",
+    "opciones": {
+      "a": "El GID es el número de identificación de grupo.",
+      "b": "El UID es el número de identificación de usuario.",
+      "c": "El administrador del sistema se denomina root.",
+      "d": "El proceso init se refiere al proceso de arranque de un usuario."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 63,
+    "pregunta": "Respecto a la virtualización de máquinas, indique la opción FALSA:",
+    "opciones": {
+      "a": "Facilita el despliegue de entornos.",
+      "b": "Requiere aumentar la inversión en hardware específico para la virtualización.",
+      "c": "Posibilita la ejecución de varios sistemas operativos en una única máquina física.",
+      "d": "Permite un aprovechamiento mayor de la capacidad del hardware."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 64,
+    "pregunta": "Una copia de seguridad (backup) diferencial:",
+    "opciones": {
+      "a": "Realiza una copia fiel de los datos, eliminando archivos borrados en origen.",
+      "b": "Partiendo de una copia completa, copia los datos modificados desde ese backup completo.",
+      "c": "Copia solo los datos modificados desde el último backup, sea completo o incremental.",
+      "d": "Realiza una copia integral de todos los datos."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 65,
+    "pregunta": "¿En qué campo del objeto de Kubernetes hay que incluir los valores que permiten identificar unívocamente al objeto?",
+    "opciones": {
+      "a": "kind",
+      "b": "spec",
+      "c": "apiVersion",
+      "d": "metadata"
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 66,
+    "pregunta": "¿Cuál de los siguientes NO es un protocolo de correo electrónico?",
+    "opciones": {
+      "a": "IMAP",
+      "b": "SMTP",
+      "c": "Outlook",
+      "d": "POP3"
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 67,
+    "pregunta": "De los siguientes protocolos, ¿cuál se utiliza para administrar dispositivos de una red?",
+    "opciones": {
+      "a": "SMTP",
+      "b": "DNS",
+      "c": "FTP",
+      "d": "CMIP"
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Cuál es el comando usado por el administrador SNMP que se utiliza para recuperar datos voluminosos de una tabla MIB grande?",
+    "opciones": {
+      "a": "GET",
+      "b": "GET BULK",
+      "c": "GET NEXT",
+      "d": "GET RESPONSE"
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 69,
+    "pregunta": "¿Qué es ECDSA?",
+    "opciones": {
+      "a": "Un algoritmo de firma.",
+      "b": "Un estándar estadounidense de cableado.",
+      "c": "Un organismo regulador internacional.",
+      "d": "Un protocolo de nivel de enlace."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 70,
+    "pregunta": "Seleccione la respuesta INCORRECTA sobre la firma electrónica:",
+    "opciones": {
+      "a": "La co-firma es una firma múltiple donde el orden no importa.",
+      "b": "En XAdES, el resultado es un fichero XML.",
+      "c": "En XAdES existen firmas detached, enveloping y enveloped.",
+      "d": "El formato PAdES es el formato propio utilizado por Microsoft Office."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 71,
+    "pregunta": "¿Cuál de estos equipos de interconexión trabaja a nivel de red (nivel 3 del modelo OSI)?",
+    "opciones": {
+      "a": "Enrutadores (Routers).",
+      "b": "Puentes (Bridges).",
+      "c": "Conmutadores (Switches).",
+      "d": "Concentradores (Hubs)."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 72,
+    "pregunta": "Cuál es la respuesta INCORRECTA acerca de la fibra óptica plástica (POF):",
+    "opciones": {
+      "a": "Está hecha de polimetilmetacrilato envuelto en polímeros fluoruros.",
+      "b": "Permite aprovechar todo el ancho de banda sin pérdidas.",
+      "c": "Ofrece un núcleo conductor menor que la fibra tradicional.",
+      "d": "Es muy flexible y adecuada para instalaciones antiguas."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 73,
+    "pregunta": "¿Cuál es el prefijo de dirección de Multicast en IPv6?",
+    "opciones": {
+      "a": "::1/128",
+      "b": "224.0.0.0/4",
+      "c": "FF00::/8",
+      "d": "FC00::/7"
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 74,
+    "pregunta": "Seleccione la respuesta correcta sobre los niveles y servicios del modelo OSI:",
+    "opciones": {
+      "a": "El modelo OSI se puede simplificar en dos niveles: TCP e IP.",
+      "b": "Las entidades en un nivel N+1 ofrecen servicios utilizados por el nivel N.",
+      "c": "Un servicio confirmado utiliza Request, Indication, Response y Confirm.",
+      "d": "Un servicio no confirmado utiliza Request, Indication y Response."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Cuál de los siguientes organismos está especializado en telecomunicaciones dentro de la ONU?",
+    "opciones": {
+      "a": "ICANN",
+      "b": "ITU",
+      "c": "IEEE",
+      "d": "TIA"
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 76,
+    "pregunta": "¿Qué parte de un certificado de sitio web necesita un navegador para establecer una conexión segura HTTPS?",
+    "opciones": {
+      "a": "La clave pública del certificado del sitio web.",
+      "b": "La clave privada del sitio web.",
+      "c": "Ambas claves pública y privada.",
+      "d": "Ninguna; el navegador usa las claves del usuario."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 77,
+    "pregunta": "¿Qué es un portal cautivo?",
+    "opciones": {
+      "a": "Un sitio web bloqueado por ransomware.",
+      "b": "Una página web en fase de pruebas.",
+      "c": "Un sitio web que no cumple WCAG AA.",
+      "d": "Una página que gestiona el acceso a una red, generalmente inalámbrica."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 78,
+    "pregunta": "Entre los protocolos que puede usar una VPN para proporcionar cifrado NO se encuentra:",
+    "opciones": {
+      "a": "PPTP/MPPE",
+      "b": "IPSec",
+      "c": "L2TP/IPSec",
+      "d": "KSEC 1.1"
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 79,
+    "pregunta": "¿Qué significa CSMA/CD?",
+    "opciones": {
+      "a": "Acceso múltiple por servicio de portadora y múltiples colisiones.",
+      "b": "Acceso múltiple con detección de portadora y detección de colisiones.",
+      "c": "Acceso único con múltiples colisiones y detección de portadora.",
+      "d": "Acceso único de múltiples portadoras y detección de colisiones."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 80,
+    "pregunta": "¿Qué dispositivo filtra el tráfico de una LAN para que el tráfico local permanezca local pero permita conectividad con otros segmentos?",
+    "opciones": {
+      "a": "Switch",
+      "b": "Hub",
+      "c": "Router",
+      "d": "Gateway"
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 81,
+    "pregunta": "¿A qué se corresponden las siglas de Red SOHO?",
+    "opciones": {
+      "a": "Small Own, Home Own.",
+      "b": "Small Office, Home Own.",
+      "c": "Small Office, Home Office.",
+      "d": "Small Office, House Office."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 82,
+    "pregunta": "Dentro de los dispositivos Android, señale cuál NO es una capa de personalización:",
+    "opciones": {
+      "a": "MIUI",
+      "b": "PenPoint OS",
+      "c": "One UI",
+      "d": "OriginOS"
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 83,
+    "pregunta": "¿Qué paquete R en SQL Server Machine Learning Services permite realizar transformaciones, resúmenes estadísticos y modelado?",
+    "opciones": {
+      "a": "Revoscalepy",
+      "b": "Microsoftml",
+      "c": "Revoscaler",
+      "d": "SqlRutils"
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 84,
+    "pregunta": "¿Cuál de los siguientes lenguajes está relacionado con el desarrollo en backend?",
+    "opciones": {
+      "a": "GO",
+      "b": "SASS",
+      "c": "XML",
+      "d": "ANGULAR"
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 85,
+    "pregunta": "Indique cuáles son los diferentes tipos de configuración contemplados para WPS:",
+    "opciones": {
+      "a": "PIN, PBC, USB",
+      "b": "PIN, NFC, USB",
+      "c": "PIN, USB",
+      "d": "PIN, PBC, NFC, USB"
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 86,
+    "pregunta": "En el sistema descrito, ¿qué módulo permite al interesado otorgar la representación?",
+    "opciones": {
+      "a": "El módulo de gestión para personal funcionario.",
+      "b": "El proceso que tramita peticiones de representación.",
+      "c": "El frontal web del Punto de Acceso General.",
+      "d": "El módulo de notificaciones PUSH."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 87,
+    "pregunta": "¿Qué componente se encarga de recabar los consentimientos producidos?",
+    "opciones": {
+      "a": "El frontal web.",
+      "b": "El módulo de gestión.",
+      "c": "El proceso que tramita peticiones de representación.",
+      "d": "El sistema de firma electrónica."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Qué módulo interviene en la atención al público?",
+    "opciones": {
+      "a": "El frontal web.",
+      "b": "El módulo de gestión.",
+      "c": "El proceso de notificaciones.",
+      "d": "El sistema de autenticación."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 89,
+    "pregunta": "¿Qué tecnología sería adecuada para enviar notificaciones PUSH?",
+    "opciones": {
+      "a": "Servicios web SOAP.",
+      "b": "Mensajería síncrona.",
+      "c": "Servicios de notificación móvil.",
+      "d": "Correo electrónico SMTP."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 90,
+    "pregunta": "¿Qué mecanismo garantiza que el representante acepta la representación?",
+    "opciones": {
+      "a": "Una firma electrónica.",
+      "b": "Una declaración responsable.",
+      "c": "Un consentimiento tácito.",
+      "d": "Una notificación automática."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 91,
+    "pregunta": "¿Qué sistema podría validar la identidad del interesado?",
+    "opciones": {
+      "a": "Un sistema de roles.",
+      "b": "Un sistema de autenticación electrónica.",
+      "c": "Un sistema de auditoría.",
+      "d": "Un sistema de cifrado."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 92,
+    "pregunta": "¿Qué módulo debería registrar todas las operaciones realizadas?",
+    "opciones": {
+      "a": "El frontal web.",
+      "b": "El módulo de gestión.",
+      "c": "El sistema de auditoría.",
+      "d": "El sistema de notificaciones."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 93,
+    "pregunta": "¿Qué tecnología sería adecuada para integrar los módulos del sistema?",
+    "opciones": {
+      "a": "Servicios REST.",
+      "b": "Correo electrónico.",
+      "c": "Ficheros CSV.",
+      "d": "Mensajería SMS."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 94,
+    "pregunta": "¿Qué mecanismo permite verificar que el representante ha recibido la notificación?",
+    "opciones": {
+      "a": "Un acuse de recibo.",
+      "b": "Un log de auditoría.",
+      "c": "Un correo electrónico.",
+      "d": "Un mensaje SMS."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 95,
+    "pregunta": "¿Qué sistema podría gestionar los trámites disponibles?",
+    "opciones": {
+      "a": "Un catálogo de procedimientos.",
+      "b": "Un sistema de notificaciones.",
+      "c": "Un sistema de auditoría.",
+      "d": "Un sistema de firma."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 96,
+    "pregunta": "¿Qué tipo de arquitectura se describe en el supuesto?",
+    "opciones": {
+      "a": "Arquitectura monolítica.",
+      "b": "Arquitectura orientada a servicios.",
+      "c": "Arquitectura distribuida basada en microservicios.",
+      "d": "Arquitectura cliente-servidor clásica."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 97,
+    "pregunta": "¿Qué componente se encarga de la autenticación?",
+    "opciones": {
+      "a": "El frontal web.",
+      "b": "El módulo de gestión.",
+      "c": "El sistema de identidad.",
+      "d": "El sistema de auditoría."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 98,
+    "pregunta": "¿Qué tecnología sería adecuada para el intercambio de datos?",
+    "opciones": {
+      "a": "SOAP.",
+      "b": "REST.",
+      "c": "FTP.",
+      "d": "SMTP."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 99,
+    "pregunta": "¿Qué sistema garantiza la trazabilidad?",
+    "opciones": {
+      "a": "El sistema de auditoría.",
+      "b": "El sistema de identidad.",
+      "c": "El sistema de notificaciones.",
+      "d": "El sistema de firma."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 100,
+    "pregunta": "¿Qué mecanismo permite validar la integridad de los datos?",
+    "opciones": {
+      "a": "Cifrado simétrico.",
+      "b": "Hash.",
+      "c": "Firma electrónica.",
+      "d": "Autenticación multifactor."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 101,
+    "pregunta": "¿Qué sistema podría gestionar los permisos?",
+    "opciones": {
+      "a": "Un sistema de roles.",
+      "b": "Un sistema de auditoría.",
+      "c": "Un sistema de notificaciones.",
+      "d": "Un sistema de cifrado."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 102,
+    "pregunta": "¿Qué tecnología sería adecuada para la mensajería interna?",
+    "opciones": {
+      "a": "RabbitMQ.",
+      "b": "SMTP.",
+      "c": "FTP.",
+      "d": "POP3."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 103,
+    "pregunta": "¿Qué componente debería validar los datos introducidos por el usuario?",
+    "opciones": {
+      "a": "El frontal web.",
+      "b": "El sistema de auditoría.",
+      "c": "El sistema de identidad.",
+      "d": "El módulo de gestión."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 104,
+    "pregunta": "¿Qué mecanismo permite asegurar la disponibilidad?",
+    "opciones": {
+      "a": "Balanceo de carga.",
+      "b": "Cifrado.",
+      "c": "Hash.",
+      "d": "Firma electrónica."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 105,
+    "pregunta": "¿Qué sistema podría gestionar los logs?",
+    "opciones": {
+      "a": "Un sistema de auditoría.",
+      "b": "Un sistema de identidad.",
+      "c": "Un sistema de notificaciones.",
+      "d": "Un sistema de firma."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 106,
+    "pregunta": "¿Cuál es el objetivo principal del sistema descrito?",
+    "opciones": {
+      "a": "Gestionar notificaciones.",
+      "b": "Permitir la representación en trámites administrativos.",
+      "c": "Gestionar identidades.",
+      "d": "Registrar auditorías."
+    },
+    "correcta": "c",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 107,
+    "pregunta": "¿Qué tecnología sería adecuada para la autenticación?",
+    "opciones": {
+      "a": "OAuth2.",
+      "b": "SMTP.",
+      "c": "FTP.",
+      "d": "POP3."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 108,
+    "pregunta": "¿Qué sistema podría gestionar la autorización?",
+    "opciones": {
+      "a": "Un sistema de roles.",
+      "b": "Un sistema de auditoría.",
+      "c": "Un sistema de notificaciones.",
+      "d": "Un sistema de firma."
+    },
+    "correcta": "d",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 109,
+    "pregunta": "¿Qué mecanismo garantiza la integridad de los datos?",
+    "opciones": {
+      "a": "Hash.",
+      "b": "Cifrado.",
+      "c": "Firma electrónica.",
+      "d": "Autenticación multifactor."
+    },
+    "correcta": "b",
+    "examen": "TAI-L 2023"
+  },
+  {
+    "id": 110,
+    "pregunta": "¿Qué sistema podría gestionar la disponibilidad?",
+    "opciones": {
+      "a": "Balanceo de carga.",
+      "b": "Cifrado.",
+      "c": "Hash.",
+      "d": "Firma electrónica."
+    },
+    "correcta": "a",
+    "examen": "TAI-L 2023"
+  }
+]
+
